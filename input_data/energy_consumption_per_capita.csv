@@ -1,0 +1,3459 @@
+Year,Country,Energy Consumption per Capita
+1985,Canada,398.0
+1985,Mexico,54.5
+1985,US,309.0
+1985,Argentina,57.2
+1985,Brazil,36.1
+1985,Chile,32.1
+1985,Colombia,26.9
+1985,Ecuador,23.7
+1985,Peru,18.7
+1985,Trinidad & Tobago,177.3
+1985,Venezuela,104.2
+1985,Central America,13.6
+1985,Other Caribbean,39.5
+1985,Other South America,20.5
+1985,Austria,150.3
+1985,Belgium,198.3
+1985,Bulgaria,136.0
+1985,Croatia,0.0
+1985,Cyprus,66.7
+1985,Czech Republic,220.7
+1985,Denmark,153.2
+1985,Estonia,279.5
+1985,Finland,209.8
+1985,France,157.2
+1985,Germany,198.9
+1985,Greece,80.8
+1985,Hungary,113.8
+1985,Iceland,274.3
+1985,Ireland,102.2
+1985,Italy,104.0
+1985,Latvia,144.1
+1985,Lithuania,177.1
+1985,Luxembourg,317.2
+1985,Netherlands,204.1
+1985,North Macedonia,0.0
+1985,Norway,377.5
+1985,Poland,142.0
+1985,Portugal,54.2
+1985,Romania,114.3
+1985,Slovakia,167.6
+1985,Slovenia,0.0
+1985,Spain,86.3
+1985,Sweden,296.8
+1985,Switzerland,180.2
+1985,Turkey,28.3
+1985,Ukraine,196.6
+1985,United Kingdom,151.8
+1985,Other Europe,78.8
+1985,Azerbaijan,122.7
+1985,Belarus,145.0
+1985,Kazakhstan,185.9
+1985,Russian Federation,240.7
+1985,Turkmenistan,158.7
+1985,Uzbekistan,92.9
+1985,Other CIS,84.0
+1985,Iran,49.0
+1985,Iraq,32.7
+1985,Israel,59.8
+1985,Kuwait,229.8
+1985,Oman,87.5
+1985,Qatar,650.5
+1985,Saudi Arabia,203.8
+1985,United Arab Emirates,526.2
+1985,Other Middle East,34.9
+1985,Algeria,42.7
+1985,Egypt,23.7
+1985,Morocco,10.5
+1985,South Africa,97.5
+1985,Eastern Africa,3.7
+1985,Middle Africa,4.9
+1985,Western Africa,4.9
+1985,Other Northern Africa,49.3
+1985,Other Southern Africa,8.7
+1985,Australia,200.1
+1985,Bangladesh,1.8
+1985,China,20.9
+1985,China Hong Kong SAR,67.0
+1985,India,7.3
+1985,Indonesia,8.9
+1985,Japan,133.2
+1985,Malaysia,41.0
+1985,New Zealand,170.1
+1985,Pakistan,8.1
+1985,Philippines,8.9
+1985,Singapore,190.2
+1985,South Korea,54.5
+1985,Sri Lanka,5.7
+1985,Taiwan,73.3
+1985,Thailand,13.5
+1985,Vietnam,3.7
+1985,Other Asia Pacific,19.9
+1986,Canada,397.7
+1986,Mexico,52.0
+1986,US,308.8
+1986,Argentina,59.6
+1986,Brazil,37.3
+1986,Chile,32.8
+1986,Colombia,27.6
+1986,Ecuador,24.2
+1986,Peru,19.7
+1986,Trinidad & Tobago,181.9
+1986,Venezuela,109.1
+1986,Central America,13.7
+1986,Other Caribbean,40.0
+1986,Other South America,26.5
+1986,Austria,150.5
+1986,Belgium,204.5
+1986,Bulgaria,139.1
+1986,Croatia,0.0
+1986,Cyprus,68.5
+1986,Czech Republic,223.1
+1986,Denmark,156.6
+1986,Estonia,276.3
+1986,Finland,211.6
+1986,France,160.4
+1986,Germany,196.9
+1986,Greece,80.2
+1986,Hungary,113.7
+1986,Iceland,284.8
+1986,Ireland,110.1
+1986,Italy,106.8
+1986,Latvia,133.2
+1986,Lithuania,162.1
+1986,Luxembourg,308.6
+1986,Netherlands,213.1
+1986,North Macedonia,0.0
+1986,Norway,367.0
+1986,Poland,145.0
+1986,Portugal,57.3
+1986,Romania,116.4
+1986,Slovakia,165.3
+1986,Slovenia,0.0
+1986,Spain,87.8
+1986,Sweden,306.8
+1986,Switzerland,188.1
+1986,Turkey,30.2
+1986,Ukraine,196.9
+1986,United Kingdom,155.8
+1986,Other Europe,82.2
+1986,Azerbaijan,129.9
+1986,Belarus,164.4
+1986,Kazakhstan,186.5
+1986,Russian Federation,243.0
+1986,Turkmenistan,192.2
+1986,Uzbekistan,88.7
+1986,Other CIS,78.7
+1986,Iran,44.4
+1986,Iraq,36.8
+1986,Israel,61.3
+1986,Kuwait,252.5
+1986,Oman,88.4
+1986,Qatar,678.6
+1986,Saudi Arabia,209.5
+1986,United Arab Emirates,599.0
+1986,Other Middle East,34.2
+1986,Algeria,43.7
+1986,Egypt,23.5
+1986,Morocco,10.7
+1986,South Africa,96.2
+1986,Eastern Africa,3.7
+1986,Middle Africa,4.7
+1986,Western Africa,4.7
+1986,Other Northern Africa,49.1
+1986,Other Southern Africa,8.9
+1986,Australia,201.2
+1986,Bangladesh,1.9
+1986,China,21.5
+1986,China Hong Kong SAR,69.2
+1986,India,7.7
+1986,Indonesia,9.3
+1986,Japan,132.7
+1986,Malaysia,43.7
+1986,New Zealand,182.5
+1986,Pakistan,8.3
+1986,Philippines,8.8
+1986,Singapore,215.7
+1986,South Korea,60.3
+1986,Sri Lanka,6.0
+1986,Taiwan,78.8
+1986,Thailand,14.1
+1986,Vietnam,3.9
+1986,Other Asia Pacific,19.9
+1987,Canada,405.5
+1987,Mexico,52.8
+1987,US,316.0
+1987,Argentina,61.3
+1987,Brazil,37.6
+1987,Chile,33.9
+1987,Colombia,29.6
+1987,Ecuador,24.4
+1987,Peru,21.0
+1987,Trinidad & Tobago,169.6
+1987,Venezuela,106.2
+1987,Central America,14.2
+1987,Other Caribbean,41.0
+1987,Other South America,30.8
+1987,Austria,158.8
+1987,Belgium,210.4
+1987,Bulgaria,140.6
+1987,Croatia,0.0
+1987,Cyprus,82.4
+1987,Czech Republic,228.3
+1987,Denmark,150.9
+1987,Estonia,278.3
+1987,Finland,222.1
+1987,France,162.5
+1987,Germany,197.8
+1987,Greece,86.9
+1987,Hungary,119.2
+1987,Iceland,290.5
+1987,Ireland,111.4
+1987,Italy,110.0
+1987,Latvia,121.0
+1987,Lithuania,168.5
+1987,Luxembourg,289.8
+1987,Netherlands,216.2
+1987,North Macedonia,0.0
+1987,Norway,383.8
+1987,Poland,148.8
+1987,Portugal,58.6
+1987,Romania,120.3
+1987,Slovakia,168.2
+1987,Slovenia,0.0
+1987,Spain,90.8
+1987,Sweden,299.4
+1987,Switzerland,185.9
+1987,Turkey,33.7
+1987,Ukraine,200.4
+1987,United Kingdom,155.2
+1987,Other Europe,82.8
+1987,Azerbaijan,123.7
+1987,Belarus,165.7
+1987,Kazakhstan,186.5
+1987,Russian Federation,248.8
+1987,Turkmenistan,185.9
+1987,Uzbekistan,89.9
+1987,Other CIS,80.3
+1987,Iran,46.1
+1987,Iraq,42.2
+1987,Israel,63.6
+1987,Kuwait,224.1
+1987,Oman,86.8
+1987,Qatar,632.8
+1987,Saudi Arabia,212.5
+1987,United Arab Emirates,623.8
+1987,Other Middle East,34.4
+1987,Algeria,43.5
+1987,Egypt,24.3
+1987,Morocco,10.8
+1987,South Africa,94.3
+1987,Eastern Africa,3.6
+1987,Middle Africa,4.7
+1987,Western Africa,4.8
+1987,Other Northern Africa,52.9
+1987,Other Southern Africa,8.9
+1987,Australia,204.0
+1987,Bangladesh,2.1
+1987,China,22.8
+1987,China Hong Kong SAR,74.9
+1987,India,8.0
+1987,Indonesia,9.7
+1987,Japan,134.8
+1987,Malaysia,43.7
+1987,New Zealand,183.6
+1987,Pakistan,9.0
+1987,Philippines,9.3
+1987,Singapore,221.6
+1987,South Korea,65.9
+1987,Sri Lanka,6.1
+1987,Taiwan,84.3
+1987,Thailand,15.9
+1987,Vietnam,4.3
+1987,Other Asia Pacific,19.0
+1988,Canada,415.8
+1988,Mexico,52.3
+1988,US,327.1
+1988,Argentina,61.4
+1988,Brazil,38.0
+1988,Chile,37.3
+1988,Colombia,28.9
+1988,Ecuador,27.5
+1988,Peru,20.0
+1988,Trinidad & Tobago,184.4
+1988,Venezuela,107.9
+1988,Central America,13.8
+1988,Other Caribbean,40.9
+1988,Other South America,31.9
+1988,Austria,156.2
+1988,Belgium,214.2
+1988,Bulgaria,144.4
+1988,Croatia,0.0
+1988,Cyprus,83.8
+1988,Czech Republic,229.2
+1988,Denmark,149.1
+1988,Estonia,271.5
+1988,Finland,220.0
+1988,France,163.9
+1988,Germany,197.5
+1988,Greece,90.9
+1988,Hungary,116.8
+1988,Iceland,301.7
+1988,Ireland,111.4
+1988,Italy,112.7
+1988,Latvia,113.8
+1988,Lithuania,175.7
+1988,Luxembourg,294.7
+1988,Netherlands,215.7
+1988,North Macedonia,0.0
+1988,Norway,393.5
+1988,Poland,145.4
+1988,Portugal,65.0
+1988,Romania,122.2
+1988,Slovakia,168.2
+1988,Slovenia,0.0
+1988,Spain,94.7
+1988,Sweden,291.6
+1988,Switzerland,185.9
+1988,Turkey,36.3
+1988,Ukraine,200.1
+1988,United Kingdom,156.9
+1988,Other Europe,84.8
+1988,Azerbaijan,121.6
+1988,Belarus,167.0
+1988,Kazakhstan,189.1
+1988,Russian Federation,251.2
+1988,Turkmenistan,182.2
+1988,Uzbekistan,88.1
+1988,Other CIS,88.3
+1988,Iran,45.6
+1988,Iraq,47.8
+1988,Israel,65.8
+1988,Kuwait,243.5
+1988,Oman,84.2
+1988,Qatar,642.4
+1988,Saudi Arabia,212.9
+1988,United Arab Emirates,645.5
+1988,Other Middle East,34.4
+1988,Algeria,45.4
+1988,Egypt,24.0
+1988,Morocco,11.2
+1988,South Africa,100.3
+1988,Eastern Africa,3.8
+1988,Middle Africa,4.8
+1988,Western Africa,5.0
+1988,Other Northern Africa,52.4
+1988,Other Southern Africa,9.3
+1988,Australia,209.9
+1988,Bangladesh,2.3
+1988,China,24.1
+1988,China Hong Kong SAR,84.9
+1988,India,8.5
+1988,Indonesia,10.0
+1988,Japan,142.7
+1988,Malaysia,44.6
+1988,New Zealand,190.2
+1988,Pakistan,9.2
+1988,Philippines,10.0
+1988,Singapore,250.5
+1988,South Korea,72.6
+1988,Sri Lanka,5.9
+1988,Taiwan,92.1
+1988,Thailand,17.5
+1988,Vietnam,4.2
+1988,Other Asia Pacific,18.9
+1989,Canada,413.2
+1989,Mexico,54.3
+1989,US,331.4
+1989,Argentina,58.4
+1989,Brazil,38.3
+1989,Chile,40.5
+1989,Colombia,29.8
+1989,Ecuador,27.7
+1989,Peru,18.0
+1989,Trinidad & Tobago,179.7
+1989,Venezuela,106.1
+1989,Central America,14.3
+1989,Other Caribbean,41.9
+1989,Other South America,34.6
+1989,Austria,156.4
+1989,Belgium,215.4
+1989,Bulgaria,143.6
+1989,Croatia,0.0
+1989,Cyprus,84.8
+1989,Czech Republic,222.2
+1989,Denmark,137.3
+1989,Estonia,278.3
+1989,Finland,220.2
+1989,France,165.2
+1989,Germany,194.3
+1989,Greece,97.7
+1989,Hungary,114.2
+1989,Iceland,308.4
+1989,Ireland,115.2
+1989,Italy,115.8
+1989,Latvia,113.7
+1989,Lithuania,189.5
+1989,Luxembourg,335.4
+1989,Netherlands,215.4
+1989,North Macedonia,0.0
+1989,Norway,417.5
+1989,Poland,139.4
+1989,Portugal,70.2
+1989,Romania,122.0
+1989,Slovakia,170.0
+1989,Slovenia,0.0
+1989,Spain,99.0
+1989,Sweden,283.9
+1989,Switzerland,172.3
+1989,Turkey,35.0
+1989,Ukraine,191.0
+1989,United Kingdom,156.8
+1989,Other Europe,82.1
+1989,Azerbaijan,122.5
+1989,Belarus,160.7
+1989,Kazakhstan,183.1
+1989,Russian Federation,250.6
+1989,Turkmenistan,182.2
+1989,Uzbekistan,88.9
+1989,Other CIS,83.0
+1989,Iran,48.4
+1989,Iraq,52.8
+1989,Israel,66.7
+1989,Kuwait,252.6
+1989,Oman,83.5
+1989,Qatar,655.6
+1989,Saudi Arabia,200.8
+1989,United Arab Emirates,683.4
+1989,Other Middle East,33.8
+1989,Algeria,43.0
+1989,Egypt,24.6
+1989,Morocco,12.1
+1989,South Africa,92.7
+1989,Eastern Africa,3.7
+1989,Middle Africa,4.9
+1989,Western Africa,5.1
+1989,Other Northern Africa,55.1
+1989,Other Southern Africa,9.7
+1989,Australia,216.9
+1989,Bangladesh,2.4
+1989,China,24.9
+1989,China Hong Kong SAR,89.4
+1989,India,9.1
+1989,Indonesia,10.9
+1989,Japan,147.1
+1989,Malaysia,48.4
+1989,New Zealand,193.6
+1989,Pakistan,9.4
+1989,Philippines,10.6
+1989,Singapore,279.3
+1989,South Korea,77.9
+1989,Sri Lanka,5.7
+1989,Taiwan,96.8
+1989,Thailand,20.0
+1989,Vietnam,3.9
+1989,Other Asia Pacific,18.1
+1990,Canada,391.6
+1990,Mexico,58.1
+1990,US,328.0
+1990,Argentina,56.6
+1990,Brazil,37.4
+1990,Chile,42.0
+1990,Colombia,27.9
+1990,Ecuador,27.9
+1990,Peru,17.4
+1990,Trinidad & Tobago,197.8
+1990,Venezuela,110.0
+1990,Central America,14.5
+1990,Other Caribbean,40.7
+1990,Other South America,36.9
+1990,Austria,157.1
+1990,Belgium,224.6
+1990,Bulgaria,133.5
+1990,Croatia,74.5
+1990,Cyprus,88.0
+1990,Czech Republic,191.1
+1990,Denmark,141.3
+1990,Estonia,292.4
+1990,Finland,233.4
+1990,France,169.6
+1990,Germany,190.2
+1990,Greece,100.4
+1990,Hungary,112.2
+1990,Iceland,306.2
+1990,Ireland,121.8
+1990,Italy,117.7
+1990,Latvia,115.7
+1990,Lithuania,192.0
+1990,Luxembourg,350.8
+1990,Netherlands,219.4
+1990,North Macedonia,52.2
+1990,Norway,420.5
+1990,Poland,114.5
+1990,Portugal,71.4
+1990,Romania,115.9
+1990,Slovakia,169.9
+1990,Slovenia,125.6
+1990,Spain,98.9
+1990,Sweden,287.3
+1990,Switzerland,177.9
+1990,Turkey,37.2
+1990,Ukraine,222.9
+1990,United Kingdom,157.7
+1990,Other Europe,79.1
+1990,Azerbaijan,126.3
+1990,Belarus,160.9
+1990,Kazakhstan,183.4
+1990,Russian Federation,245.1
+1990,Turkmenistan,147.0
+1990,Uzbekistan,91.1
+1990,Other CIS,83.2
+1990,Iran,52.3
+1990,Iraq,48.5
+1990,Israel,96.8
+1990,Kuwait,196.6
+1990,Oman,92.9
+1990,Qatar,642.6
+1990,Saudi Arabia,208.8
+1990,United Arab Emirates,653.5
+1990,Other Middle East,32.6
+1990,Algeria,44.4
+1990,Egypt,24.6
+1990,Morocco,12.1
+1990,South Africa,93.0
+1990,Eastern Africa,4.0
+1990,Middle Africa,4.4
+1990,Western Africa,4.8
+1990,Other Northern Africa,52.5
+1990,Other Southern Africa,16.9
+1990,Australia,218.1
+1990,Bangladesh,2.5
+1990,China,24.8
+1990,China Hong Kong SAR,85.9
+1990,India,9.5
+1990,Indonesia,11.8
+1990,Japan,151.9
+1990,Malaysia,49.5
+1990,New Zealand,197.6
+1990,Pakistan,9.5
+1990,Philippines,11.0
+1990,Singapore,325.3
+1990,South Korea,87.0
+1990,Sri Lanka,6.3
+1990,Taiwan,102.2
+1990,Thailand,23.1
+1990,Vietnam,4.1
+1990,Other Asia Pacific,17.4
+1991,Canada,388.2
+1991,Mexico,58.6
+1991,US,323.1
+1991,Argentina,56.7
+1991,Brazil,38.0
+1991,Chile,46.4
+1991,Colombia,28.0
+1991,Ecuador,30.1
+1991,Peru,16.9
+1991,Trinidad & Tobago,195.7
+1991,Venezuela,108.2
+1991,Central America,14.9
+1991,Other Caribbean,39.3
+1991,Other South America,38.9
+1991,Austria,163.2
+1991,Belgium,231.7
+1991,Bulgaria,108.6
+1991,Croatia,62.3
+1991,Cyprus,87.9
+1991,Czech Republic,173.9
+1991,Denmark,162.5
+1991,Estonia,268.4
+1991,Finland,237.5
+1991,France,179.5
+1991,Germany,184.5
+1991,Greece,101.0
+1991,Hungary,104.8
+1991,Iceland,295.7
+1991,Ireland,125.8
+1991,Italy,121.3
+1991,Latvia,107.1
+1991,Lithuania,202.6
+1991,Luxembourg,372.0
+1991,Netherlands,222.0
+1991,North Macedonia,52.1
+1991,Norway,385.9
+1991,Poland,111.7
+1991,Portugal,74.2
+1991,Romania,98.4
+1991,Slovakia,151.5
+1991,Slovenia,125.6
+1991,Spain,102.1
+1991,Sweden,271.1
+1991,Switzerland,180.4
+1991,Turkey,37.3
+1991,Ukraine,208.6
+1991,United Kingdom,160.6
+1991,Other Europe,70.0
+1991,Azerbaijan,119.6
+1991,Belarus,160.0
+1991,Kazakhstan,181.9
+1991,Russian Federation,241.0
+1991,Turkmenistan,146.9
+1991,Uzbekistan,87.9
+1991,Other CIS,68.5
+1991,Iran,54.6
+1991,Iraq,30.3
+1991,Israel,95.6
+1991,Kuwait,124.0
+1991,Oman,115.5
+1991,Qatar,716.2
+1991,Saudi Arabia,210.2
+1991,United Arab Emirates,754.3
+1991,Other Middle East,33.5
+1991,Algeria,43.0
+1991,Egypt,24.3
+1991,Morocco,12.1
+1991,South Africa,90.0
+1991,Eastern Africa,3.7
+1991,Middle Africa,4.0
+1991,Western Africa,5.0
+1991,Other Northern Africa,51.0
+1991,Other Southern Africa,16.8
+1991,Australia,213.7
+1991,Bangladesh,2.3
+1991,China,25.6
+1991,China Hong Kong SAR,87.8
+1991,India,9.8
+1991,Indonesia,12.6
+1991,Japan,154.8
+1991,Malaysia,60.3
+1991,New Zealand,196.7
+1991,Pakistan,9.8
+1991,Philippines,10.5
+1991,Singapore,321.1
+1991,South Korea,97.6
+1991,Sri Lanka,6.2
+1991,Taiwan,107.1
+1991,Thailand,25.1
+1991,Vietnam,4.1
+1991,Other Asia Pacific,16.5
+1992,Canada,393.9
+1992,Mexico,58.6
+1992,US,323.2
+1992,Argentina,60.0
+1992,Brazil,37.9
+1992,Chile,50.7
+1992,Colombia,28.5
+1992,Ecuador,29.3
+1992,Peru,16.1
+1992,Trinidad & Tobago,205.7
+1992,Venezuela,114.4
+1992,Central America,16.0
+1992,Other Caribbean,36.7
+1992,Other South America,38.9
+1992,Austria,158.8
+1992,Belgium,230.6
+1992,Bulgaria,102.8
+1992,Croatia,60.4
+1992,Cyprus,101.3
+1992,Czech Republic,168.6
+1992,Denmark,151.7
+1992,Estonia,190.2
+1992,Finland,235.4
+1992,France,180.4
+1992,Germany,180.0
+1992,Greece,101.9
+1992,Hungary,100.6
+1992,Iceland,302.2
+1992,Ireland,125.5
+1992,Italy,120.7
+1992,Latvia,77.1
+1992,Lithuania,124.0
+1992,Luxembourg,368.2
+1992,Netherlands,223.1
+1992,North Macedonia,53.9
+1992,Norway,404.0
+1992,Poland,106.6
+1992,Portugal,75.1
+1992,Romania,86.9
+1992,Slovakia,145.1
+1992,Slovenia,117.3
+1992,Spain,106.4
+1992,Sweden,271.6
+1992,Switzerland,181.3
+1992,Turkey,38.6
+1992,Ukraine,175.9
+1992,United Kingdom,159.1
+1992,Other Europe,62.1
+1992,Azerbaijan,101.0
+1992,Belarus,138.5
+1992,Kazakhstan,179.0
+1992,Russian Federation,231.6
+1992,Turkmenistan,136.6
+1992,Uzbekistan,81.4
+1992,Other CIS,57.7
+1992,Iran,59.0
+1992,Iraq,46.6
+1992,Israel,108.6
+1992,Kuwait,181.4
+1992,Oman,109.3
+1992,Qatar,1102.1
+1992,Saudi Arabia,204.5
+1992,United Arab Emirates,691.8
+1992,Other Middle East,33.7
+1992,Algeria,43.1
+1992,Egypt,23.6
+1992,Morocco,13.3
+1992,South Africa,88.5
+1992,Eastern Africa,3.6
+1992,Middle Africa,4.0
+1992,Western Africa,5.3
+1992,Other Northern Africa,49.6
+1992,Other Southern Africa,17.6
+1992,Australia,214.9
+1992,Bangladesh,2.5
+1992,China,26.7
+1992,China Hong Kong SAR,101.8
+1992,India,10.1
+1992,Indonesia,13.6
+1992,Japan,156.0
+1992,Malaysia,66.2
+1992,New Zealand,194.1
+1992,Pakistan,10.0
+1992,Philippines,11.0
+1992,Singapore,333.0
+1992,South Korea,109.5
+1992,Sri Lanka,6.5
+1992,Taiwan,112.8
+1992,Thailand,27.0
+1992,Vietnam,4.4
+1992,Other Asia Pacific,14.6
+1993,Canada,399.3
+1993,Mexico,57.6
+1993,US,325.4
+1993,Argentina,61.1
+1993,Brazil,39.0
+1993,Chile,52.8
+1993,Colombia,30.4
+1993,Ecuador,29.8
+1993,Peru,17.3
+1993,Trinidad & Tobago,215.4
+1993,Venezuela,110.6
+1993,Central America,16.8
+1993,Other Caribbean,36.4
+1993,Other South America,41.4
+1993,Austria,160.4
+1993,Belgium,226.2
+1993,Bulgaria,110.4
+1993,Croatia,63.1
+1993,Cyprus,103.3
+1993,Czech Republic,167.1
+1993,Denmark,160.3
+1993,Estonia,161.7
+1993,Finland,236.3
+1993,France,179.8
+1993,Germany,178.3
+1993,Greece,102.4
+1993,Hungary,96.9
+1993,Iceland,310.8
+1993,Ireland,127.5
+1993,Italy,118.1
+1993,Latvia,67.1
+1993,Lithuania,97.2
+1993,Luxembourg,368.2
+1993,Netherlands,223.5
+1993,North Macedonia,54.6
+1993,Norway,414.5
+1993,Poland,106.3
+1993,Portugal,77.2
+1993,Romania,84.8
+1993,Slovakia,142.0
+1993,Slovenia,120.5
+1993,Spain,102.4
+1993,Sweden,267.4
+1993,Switzerland,179.3
+1993,Turkey,41.2
+1993,Ukraine,154.2
+1993,United Kingdom,160.6
+1993,Other Europe,54.5
+1993,Azerbaijan,86.5
+1993,Belarus,115.8
+1993,Kazakhstan,158.6
+1993,Russian Federation,215.6
+1993,Turkmenistan,109.2
+1993,Uzbekistan,85.5
+1993,Other CIS,46.3
+1993,Iran,54.3
+1993,Iraq,59.0
+1993,Israel,114.9
+1993,Kuwait,218.1
+1993,Oman,101.0
+1993,Qatar,1142.8
+1993,Saudi Arabia,202.3
+1993,United Arab Emirates,685.7
+1993,Other Middle East,33.6
+1993,Algeria,39.2
+1993,Egypt,23.0
+1993,Morocco,13.2
+1993,South Africa,86.8
+1993,Eastern Africa,3.8
+1993,Middle Africa,3.9
+1993,Western Africa,5.2
+1993,Other Northern Africa,51.5
+1993,Other Southern Africa,17.2
+1993,Australia,217.3
+1993,Bangladesh,2.7
+1993,China,28.5
+1993,China Hong Kong SAR,109.7
+1993,India,10.2
+1993,Indonesia,14.3
+1993,Japan,157.9
+1993,Malaysia,64.7
+1993,New Zealand,197.7
+1993,Pakistan,10.8
+1993,Philippines,11.8
+1993,Singapore,352.2
+1993,South Korea,119.5
+1993,Sri Lanka,7.0
+1993,Taiwan,118.4
+1993,Thailand,30.2
+1993,Vietnam,5.0
+1993,Other Asia Pacific,13.5
+1994,Canada,410.1
+1994,Mexico,59.7
+1994,US,327.0
+1994,Argentina,63.5
+1994,Brazil,40.2
+1994,Chile,54.6
+1994,Colombia,32.3
+1994,Ecuador,31.8
+1994,Peru,18.4
+1994,Trinidad & Tobago,227.0
+1994,Venezuela,117.5
+1994,Central America,17.4
+1994,Other Caribbean,37.5
+1994,Other South America,44.7
+1994,Austria,158.8
+1994,Belgium,237.4
+1994,Bulgaria,107.0
+1994,Croatia,63.4
+1994,Cyprus,101.2
+1994,Czech Republic,162.7
+1994,Denmark,171.3
+1994,Estonia,167.2
+1994,Finland,246.9
+1994,France,177.0
+1994,Germany,176.0
+1994,Greece,103.3
+1994,Hungary,98.7
+1994,Iceland,311.6
+1994,Ireland,132.4
+1994,Italy,117.8
+1994,Latvia,65.8
+1994,Lithuania,84.3
+1994,Luxembourg,349.3
+1994,Netherlands,219.7
+1994,North Macedonia,51.6
+1994,Norway,398.0
+1994,Poland,101.6
+1994,Portugal,79.7
+1994,Romania,80.3
+1994,Slovakia,139.5
+1994,Slovenia,128.3
+1994,Spain,106.7
+1994,Sweden,266.2
+1994,Switzerland,186.9
+1994,Turkey,39.2
+1994,Ukraine,132.6
+1994,United Kingdom,158.3
+1994,Other Europe,47.4
+1994,Azerbaijan,78.6
+1994,Belarus,96.8
+1994,Kazakhstan,143.3
+1994,Russian Federation,196.9
+1994,Turkmenistan,113.6
+1994,Uzbekistan,82.1
+1994,Other CIS,38.9
+1994,Iran,60.5
+1994,Iraq,63.7
+1994,Israel,116.9
+1994,Kuwait,256.5
+1994,Oman,91.9
+1994,Qatar,1125.5
+1994,Saudi Arabia,227.3
+1994,United Arab Emirates,718.3
+1994,Other Middle East,34.1
+1994,Algeria,38.9
+1994,Egypt,23.7
+1994,Morocco,14.4
+1994,South Africa,89.0
+1994,Eastern Africa,3.7
+1994,Middle Africa,3.6
+1994,Western Africa,5.0
+1994,Other Northern Africa,55.2
+1994,Other Southern Africa,17.2
+1994,Australia,223.5
+1994,Bangladesh,2.8
+1994,China,30.0
+1994,China Hong Kong SAR,98.1
+1994,India,10.5
+1994,Indonesia,14.7
+1994,Japan,163.4
+1994,Malaysia,66.8
+1994,New Zealand,205.9
+1994,Pakistan,10.8
+1994,Philippines,12.0
+1994,Singapore,390.6
+1994,South Korea,128.2
+1994,Sri Lanka,7.6
+1994,Taiwan,124.6
+1994,Thailand,33.5
+1994,Vietnam,5.4
+1994,Other Asia Pacific,12.6
+1995,Canada,415.7
+1995,Mexico,57.6
+1995,US,329.8
+1995,Argentina,64.7
+1995,Brazil,42.1
+1995,Chile,58.0
+1995,Colombia,32.4
+1995,Ecuador,29.5
+1995,Peru,19.6
+1995,Trinidad & Tobago,244.9
+1995,Venezuela,118.5
+1995,Central America,18.3
+1995,Other Caribbean,37.2
+1995,Other South America,49.4
+1995,Austria,166.3
+1995,Belgium,239.7
+1995,Bulgaria,116.0
+1995,Croatia,65.8
+1995,Cyprus,105.3
+1995,Czech Republic,169.7
+1995,Denmark,167.5
+1995,Estonia,154.0
+1995,Finland,234.5
+1995,France,180.6
+1995,Germany,176.4
+1995,Greece,106.3
+1995,Hungary,100.0
+1995,Iceland,319.8
+1995,Ireland,134.4
+1995,Italy,122.5
+1995,Latvia,62.4
+1995,Lithuania,94.8
+1995,Luxembourg,299.7
+1995,Netherlands,227.2
+1995,North Macedonia,52.0
+1995,Norway,420.2
+1995,Poland,103.9
+1995,Portugal,87.1
+1995,Romania,88.6
+1995,Slovakia,141.1
+1995,Slovenia,134.7
+1995,Spain,110.3
+1995,Sweden,268.2
+1995,Switzerland,175.9
+1995,Turkey,43.1
+1995,Ukraine,130.4
+1995,United Kingdom,158.4
+1995,Other Europe,48.7
+1995,Azerbaijan,73.3
+1995,Belarus,86.3
+1995,Kazakhstan,131.2
+1995,Russian Federation,186.6
+1995,Turkmenistan,91.5
+1995,Uzbekistan,79.5
+1995,Other CIS,33.8
+1995,Iran,62.6
+1995,Iraq,61.3
+1995,Israel,128.3
+1995,Kuwait,327.4
+1995,Oman,105.8
+1995,Qatar,1090.1
+1995,Saudi Arabia,215.4
+1995,United Arab Emirates,717.2
+1995,Other Middle East,34.5
+1995,Algeria,39.6
+1995,Egypt,24.6
+1995,Morocco,13.9
+1995,South Africa,91.5
+1995,Eastern Africa,3.6
+1995,Middle Africa,3.6
+1995,Western Africa,5.0
+1995,Other Northern Africa,57.2
+1995,Other Southern Africa,18.4
+1995,Australia,230.8
+1995,Bangladesh,3.3
+1995,China,30.6
+1995,China Hong Kong SAR,104.2
+1995,India,11.1
+1995,Indonesia,15.7
+1995,Japan,171.3
+1995,Malaysia,71.1
+1995,New Zealand,210.6
+1995,Pakistan,11.1
+1995,Philippines,13.4
+1995,Singapore,395.1
+1995,South Korea,139.3
+1995,Sri Lanka,8.1
+1995,Taiwan,131.5
+1995,Thailand,37.3
+1995,Vietnam,6.2
+1995,Other Asia Pacific,12.1
+1996,Canada,422.6
+1996,Mexico,58.1
+1996,US,336.8
+1996,Argentina,66.8
+1996,Brazil,43.9
+1996,Chile,60.6
+1996,Colombia,33.1
+1996,Ecuador,33.0
+1996,Peru,19.9
+1996,Trinidad & Tobago,276.3
+1996,Venezuela,113.1
+1996,Central America,18.2
+1996,Other Caribbean,38.1
+1996,Other South America,51.0
+1996,Austria,166.2
+1996,Belgium,253.9
+1996,Bulgaria,116.6
+1996,Croatia,71.3
+1996,Cyprus,104.7
+1996,Czech Republic,175.9
+1996,Denmark,198.6
+1996,Estonia,165.6
+1996,Finland,244.1
+1996,France,186.7
+1996,Germany,181.8
+1996,Greece,108.2
+1996,Hungary,102.1
+1996,Iceland,336.7
+1996,Ireland,140.8
+1996,Italy,122.5
+1996,Latvia,58.9
+1996,Lithuania,103.8
+1996,Luxembourg,304.1
+1996,Netherlands,235.6
+1996,North Macedonia,60.1
+1996,Norway,383.5
+1996,Poland,109.1
+1996,Portugal,89.5
+1996,Romania,88.5
+1996,Slovakia,141.9
+1996,Slovenia,141.3
+1996,Spain,114.0
+1996,Sweden,259.8
+1996,Switzerland,169.2
+1996,Turkey,46.3
+1996,Ukraine,122.6
+1996,United Kingdom,165.7
+1996,Other Europe,53.2
+1996,Azerbaijan,59.7
+1996,Belarus,88.7
+1996,Kazakhstan,116.2
+1996,Russian Federation,180.0
+1996,Turkmenistan,130.9
+1996,Uzbekistan,80.5
+1996,Other CIS,36.1
+1996,Iran,67.3
+1996,Iraq,59.4
+1996,Israel,129.8
+1996,Kuwait,315.0
+1996,Oman,106.7
+1996,Qatar,781.5
+1996,Saudi Arabia,216.7
+1996,United Arab Emirates,699.2
+1996,Other Middle East,34.5
+1996,Algeria,38.5
+1996,Egypt,25.3
+1996,Morocco,14.3
+1996,South Africa,91.9
+1996,Eastern Africa,3.5
+1996,Middle Africa,3.5
+1996,Western Africa,5.3
+1996,Other Northern Africa,57.6
+1996,Other Southern Africa,17.0
+1996,Australia,234.9
+1996,Bangladesh,3.4
+1996,China,32.0
+1996,China Hong Kong SAR,102.6
+1996,India,11.3
+1996,Indonesia,16.6
+1996,Japan,174.2
+1996,Malaysia,77.3
+1996,New Zealand,210.5
+1996,Pakistan,11.5
+1996,Philippines,14.1
+1996,Singapore,386.9
+1996,South Korea,153.0
+1996,Sri Lanka,8.4
+1996,Taiwan,135.9
+1996,Thailand,41.6
+1996,Vietnam,7.0
+1996,Other Asia Pacific,11.1
+1997,Canada,420.6
+1997,Mexico,58.4
+1997,US,335.0
+1997,Argentina,66.8
+1997,Brazil,46.0
+1997,Chile,68.3
+1997,Colombia,33.0
+1997,Ecuador,36.1
+1997,Peru,19.1
+1997,Trinidad & Tobago,275.2
+1997,Venezuela,117.1
+1997,Central America,18.8
+1997,Other Caribbean,39.9
+1997,Other South America,54.2
+1997,Austria,169.6
+1997,Belgium,255.7
+1997,Bulgaria,111.3
+1997,Croatia,71.3
+1997,Cyprus,103.7
+1997,Czech Republic,168.9
+1997,Denmark,179.4
+1997,Estonia,164.7
+1997,Finland,246.8
+1997,France,183.5
+1997,Germany,179.2
+1997,Greece,110.6
+1997,Hungary,99.8
+1997,Iceland,350.3
+1997,Ireland,144.1
+1997,Italy,124.5
+1997,Latvia,60.2
+1997,Lithuania,96.4
+1997,Luxembourg,293.9
+1997,Netherlands,230.1
+1997,North Macedonia,53.9
+1997,Norway,401.0
+1997,Poland,108.1
+1997,Portugal,90.4
+1997,Romania,84.5
+1997,Slovakia,139.1
+1997,Slovenia,144.6
+1997,Spain,119.7
+1997,Sweden,268.3
+1997,Switzerland,180.5
+1997,Turkey,47.6
+1997,Ukraine,119.3
+1997,United Kingdom,162.3
+1997,Other Europe,57.0
+1997,Azerbaijan,56.8
+1997,Belarus,90.0
+1997,Kazakhstan,104.6
+1997,Russian Federation,170.6
+1997,Turkmenistan,98.8
+1997,Uzbekistan,78.2
+1997,Other CIS,34.0
+1997,Iran,68.3
+1997,Iraq,68.2
+1997,Israel,138.7
+1997,Kuwait,316.9
+1997,Oman,108.2
+1997,Qatar,819.7
+1997,Saudi Arabia,214.9
+1997,United Arab Emirates,683.6
+1997,Other Middle East,35.7
+1997,Algeria,36.4
+1997,Egypt,25.8
+1997,Morocco,14.6
+1997,South Africa,92.7
+1997,Eastern Africa,3.6
+1997,Middle Africa,3.4
+1997,Western Africa,5.1
+1997,Other Northern Africa,59.0
+1997,Other Southern Africa,17.4
+1997,Australia,238.0
+1997,Bangladesh,3.5
+1997,China,31.9
+1997,China Hong Kong SAR,102.1
+1997,India,11.7
+1997,Indonesia,17.7
+1997,Japan,177.1
+1997,Malaysia,87.3
+1997,New Zealand,207.9
+1997,Pakistan,10.8
+1997,Philippines,15.0
+1997,Singapore,395.2
+1997,South Korea,166.9
+1997,Sri Lanka,8.6
+1997,Taiwan,142.9
+1997,Thailand,43.3
+1997,Vietnam,7.9
+1997,Other Asia Pacific,10.8
+1998,Canada,411.0
+1998,Mexico,59.8
+1998,US,333.0
+1998,Argentina,68.4
+1998,Brazil,46.9
+1998,Chile,67.6
+1998,Colombia,32.9
+1998,Ecuador,35.7
+1998,Peru,19.4
+1998,Trinidad & Tobago,278.4
+1998,Venezuela,121.7
+1998,Central America,20.4
+1998,Other Caribbean,40.9
+1998,Other South America,55.4
+1998,Austria,172.1
+1998,Belgium,259.8
+1998,Bulgaria,108.1
+1998,Croatia,76.3
+1998,Cyprus,108.0
+1998,Czech Republic,164.2
+1998,Denmark,172.4
+1998,Estonia,148.8
+1998,Finland,254.4
+1998,France,186.9
+1998,Germany,177.5
+1998,Greece,116.7
+1998,Hungary,101.6
+1998,Iceland,375.0
+1998,Ireland,153.5
+1998,Italy,127.4
+1998,Latvia,66.5
+1998,Lithuania,104.3
+1998,Luxembourg,280.4
+1998,Netherlands,230.3
+1998,North Macedonia,60.7
+1998,Norway,414.5
+1998,Poland,103.6
+1998,Portugal,98.1
+1998,Romania,77.8
+1998,Slovakia,140.4
+1998,Slovenia,145.1
+1998,Spain,124.9
+1998,Sweden,289.6
+1998,Switzerland,181.0
+1998,Turkey,48.1
+1998,Ukraine,116.1
+1998,United Kingdom,163.2
+1998,Other Europe,58.4
+1998,Azerbaijan,56.7
+1998,Belarus,88.4
+1998,Kazakhstan,100.7
+1998,Russian Federation,170.6
+1998,Turkmenistan,121.2
+1998,Uzbekistan,76.9
+1998,Other CIS,33.7
+1998,Iran,70.1
+1998,Iraq,49.6
+1998,Israel,142.8
+1998,Kuwait,377.9
+1998,Oman,109.2
+1998,Qatar,836.4
+1998,Saudi Arabia,220.3
+1998,United Arab Emirates,658.2
+1998,Other Middle East,37.9
+1998,Algeria,37.1
+1998,Egypt,26.3
+1998,Morocco,14.8
+1998,South Africa,89.9
+1998,Eastern Africa,3.7
+1998,Middle Africa,3.2
+1998,Western Africa,5.1
+1998,Other Northern Africa,60.6
+1998,Other Southern Africa,19.0
+1998,Australia,241.2
+1998,Bangladesh,3.6
+1998,China,31.8
+1998,China Hong Kong SAR,102.4
+1998,India,12.2
+1998,Indonesia,17.2
+1998,Japan,173.2
+1998,Malaysia,81.8
+1998,New Zealand,206.0
+1998,Pakistan,11.2
+1998,Philippines,14.6
+1998,Singapore,389.7
+1998,South Korea,151.7
+1998,Sri Lanka,9.1
+1998,Taiwan,150.5
+1998,Thailand,39.4
+1998,Vietnam,8.5
+1998,Other Asia Pacific,10.2
+1999,Canada,420.5
+1999,Mexico,59.7
+1999,US,334.8
+1999,Argentina,68.4
+1999,Brazil,46.8
+1999,Chile,69.5
+1999,Colombia,30.1
+1999,Ecuador,32.0
+1999,Peru,19.6
+1999,Trinidad & Tobago,308.4
+1999,Venezuela,119.5
+1999,Central America,20.7
+1999,Other Caribbean,39.3
+1999,Other South America,54.8
+1999,Austria,175.7
+1999,Belgium,257.1
+1999,Bulgaria,95.8
+1999,Croatia,79.8
+1999,Cyprus,111.6
+1999,Czech Republic,157.7
+1999,Denmark,166.5
+1999,Estonia,137.8
+1999,Finland,248.9
+1999,France,189.3
+1999,Germany,175.0
+1999,Greece,116.2
+1999,Hungary,101.8
+1999,Iceland,405.9
+1999,Ireland,160.2
+1999,Italy,131.0
+1999,Latvia,57.3
+1999,Lithuania,87.0
+1999,Luxembourg,292.3
+1999,Netherlands,226.3
+1999,North Macedonia,57.8
+1999,Norway,422.6
+1999,Poland,101.6
+1999,Portugal,99.8
+1999,Romania,68.8
+1999,Slovakia,141.5
+1999,Slovenia,143.8
+1999,Spain,128.2
+1999,Sweden,280.6
+1999,Switzerland,188.2
+1999,Turkey,46.1
+1999,Ukraine,115.4
+1999,United Kingdom,161.9
+1999,Other Europe,54.0
+1999,Azerbaijan,56.1
+1999,Belarus,86.4
+1999,Kazakhstan,96.0
+1999,Russian Federation,173.2
+1999,Turkmenistan,113.9
+1999,Uzbekistan,85.9
+1999,Other CIS,32.4
+1999,Iran,74.3
+1999,Iraq,34.7
+1999,Israel,144.9
+1999,Kuwait,380.2
+1999,Oman,122.4
+1999,Qatar,882.0
+1999,Saudi Arabia,218.5
+1999,United Arab Emirates,625.7
+1999,Other Middle East,37.5
+1999,Algeria,36.9
+1999,Egypt,27.6
+1999,Morocco,15.1
+1999,South Africa,91.9
+1999,Eastern Africa,3.7
+1999,Middle Africa,3.2
+1999,Western Africa,5.0
+1999,Other Northern Africa,59.1
+1999,Other Southern Africa,20.2
+1999,Australia,248.4
+1999,Bangladesh,3.6
+1999,China,32.6
+1999,China Hong Kong SAR,102.2
+1999,India,12.3
+1999,Indonesia,18.5
+1999,Japan,175.7
+1999,Malaysia,85.2
+1999,New Zealand,206.5
+1999,Pakistan,11.4
+1999,Philippines,14.4
+1999,Singapore,376.0
+1999,South Korea,164.3
+1999,Sri Lanka,9.8
+1999,Taiwan,156.4
+1999,Thailand,41.3
+1999,Vietnam,8.7
+1999,Other Asia Pacific,10.5
+2000,Canada,428.0
+2000,Mexico,62.3
+2000,US,338.4
+2000,Argentina,67.9
+2000,Brazil,48.2
+2000,Chile,72.1
+2000,Colombia,28.8
+2000,Ecuador,29.7
+2000,Peru,19.9
+2000,Trinidad & Tobago,321.1
+2000,Venezuela,120.6
+2000,Central America,21.1
+2000,Other Caribbean,44.8
+2000,Other South America,53.7
+2000,Austria,175.9
+2000,Belgium,260.7
+2000,Bulgaria,96.7
+2000,Croatia,76.4
+2000,Cyprus,114.9
+2000,Czech Republic,166.9
+2000,Denmark,159.4
+2000,Estonia,143.0
+2000,Finland,249.8
+2000,France,190.7
+2000,Germany,176.1
+2000,Greece,121.7
+2000,Hungary,99.1
+2000,Iceland,425.0
+2000,Ireland,165.6
+2000,Italy,132.7
+2000,Latvia,56.8
+2000,Lithuania,78.0
+2000,Luxembourg,307.5
+2000,Netherlands,228.0
+2000,North Macedonia,54.5
+2000,Norway,465.3
+2000,Poland,95.1
+2000,Portugal,102.5
+2000,Romania,69.0
+2000,Slovakia,146.1
+2000,Slovenia,142.6
+2000,Spain,135.0
+2000,Sweden,259.5
+2000,Switzerland,182.6
+2000,Turkey,48.6
+2000,Ukraine,116.8
+2000,United Kingdom,162.8
+2000,Other Europe,58.3
+2000,Azerbaijan,58.0
+2000,Belarus,89.5
+2000,Kazakhstan,87.4
+2000,Russian Federation,176.9
+2000,Turkmenistan,94.4
+2000,Uzbekistan,86.6
+2000,Other CIS,31.3
+2000,Iran,76.7
+2000,Iraq,47.2
+2000,Israel,133.8
+2000,Kuwait,394.3
+2000,Oman,170.3
+2000,Qatar,747.9
+2000,Saudi Arabia,223.0
+2000,United Arab Emirates,588.9
+2000,Other Middle East,36.9
+2000,Algeria,35.1
+2000,Egypt,28.7
+2000,Morocco,14.8
+2000,South Africa,91.2
+2000,Eastern Africa,3.6
+2000,Middle Africa,3.5
+2000,Western Africa,5.2
+2000,Other Northern Africa,62.8
+2000,Other Southern Africa,20.3
+2000,Australia,247.1
+2000,Bangladesh,3.8
+2000,China,33.6
+2000,China Hong Kong SAR,105.6
+2000,India,12.7
+2000,Indonesia,19.5
+2000,Japan,177.2
+2000,Malaysia,95.9
+2000,New Zealand,214.4
+2000,Pakistan,11.3
+2000,Philippines,14.2
+2000,Singapore,393.4
+2000,South Korea,172.8
+2000,Sri Lanka,10.3
+2000,Taiwan,165.3
+2000,Thailand,42.4
+2000,Vietnam,9.8
+2000,Other Asia Pacific,11.1
+2001,Canada,414.8
+2001,Mexico,60.8
+2001,US,326.8
+2001,Argentina,65.6
+2001,Brazil,46.4
+2001,Chile,72.7
+2001,Colombia,28.6
+2001,Ecuador,29.6
+2001,Peru,19.5
+2001,Trinidad & Tobago,344.8
+2001,Venezuela,123.0
+2001,Central America,21.4
+2001,Other Caribbean,46.5
+2001,Other South America,48.7
+2001,Austria,181.5
+2001,Belgium,257.3
+2001,Bulgaria,100.7
+2001,Croatia,81.1
+2001,Cyprus,114.2
+2001,Czech Republic,170.8
+2001,Denmark,159.3
+2001,Estonia,150.0
+2001,Finland,254.6
+2001,France,191.9
+2001,Germany,179.4
+2001,Greece,122.3
+2001,Hungary,101.7
+2001,Iceland,424.1
+2001,Ireland,172.2
+2001,Italy,132.5
+2001,Latvia,62.1
+2001,Lithuania,92.3
+2001,Luxembourg,325.3
+2001,Netherlands,235.5
+2001,North Macedonia,50.9
+2001,Norway,418.7
+2001,Poland,94.1
+2001,Portugal,103.3
+2001,Romania,70.2
+2001,Slovakia,150.4
+2001,Slovenia,149.3
+2001,Spain,140.4
+2001,Sweden,277.5
+2001,Switzerland,193.9
+2001,Turkey,43.5
+2001,Ukraine,116.2
+2001,United Kingdom,163.8
+2001,Other Europe,61.2
+2001,Azerbaijan,55.3
+2001,Belarus,87.5
+2001,Kazakhstan,98.0
+2001,Russian Federation,180.4
+2001,Turkmenistan,117.5
+2001,Uzbekistan,85.8
+2001,Other CIS,30.5
+2001,Iran,80.6
+2001,Iraq,51.0
+2001,Israel,131.1
+2001,Kuwait,387.4
+2001,Oman,186.7
+2001,Qatar,684.0
+2001,Saudi Arabia,231.8
+2001,United Arab Emirates,564.4
+2001,Other Middle East,37.0
+2001,Algeria,35.9
+2001,Egypt,29.3
+2001,Morocco,15.8
+2001,South Africa,90.8
+2001,Eastern Africa,3.8
+2001,Middle Africa,3.4
+2001,Western Africa,5.5
+2001,Other Northern Africa,63.2
+2001,Other Southern Africa,20.4
+2001,Australia,246.0
+2001,Bangladesh,4.3
+2001,China,35.3
+2001,China Hong Kong SAR,132.0
+2001,India,12.5
+2001,Indonesia,20.6
+2001,Japan,175.2
+2001,Malaysia,95.7
+2001,New Zealand,210.5
+2001,Pakistan,11.2
+2001,Philippines,13.6
+2001,Singapore,437.4
+2001,South Korea,175.9
+2001,Sri Lanka,9.9
+2001,Taiwan,169.4
+2001,Thailand,44.3
+2001,Vietnam,10.9
+2001,Other Asia Pacific,11.3
+2002,Canada,424.5
+2002,Mexico,61.4
+2002,US,328.3
+2002,Argentina,62.2
+2002,Brazil,46.9
+2002,Chile,73.6
+2002,Colombia,28.2
+2002,Ecuador,28.7
+2002,Peru,19.7
+2002,Trinidad & Tobago,372.2
+2002,Venezuela,122.2
+2002,Central America,21.5
+2002,Other Caribbean,46.4
+2002,Other South America,49.7
+2002,Austria,180.9
+2002,Belgium,255.0
+2002,Bulgaria,98.4
+2002,Croatia,81.6
+2002,Cyprus,110.6
+2002,Czech Republic,171.2
+2002,Denmark,158.5
+2002,Estonia,150.4
+2002,Finland,255.3
+2002,France,188.8
+2002,Germany,177.3
+2002,Greece,122.1
+2002,Hungary,99.6
+2002,Iceland,436.7
+2002,Ireland,167.7
+2002,Italy,131.3
+2002,Latvia,63.5
+2002,Lithuania,99.7
+2002,Luxembourg,351.9
+2002,Netherlands,234.5
+2002,North Macedonia,49.5
+2002,Norway,433.3
+2002,Poland,93.1
+2002,Portugal,102.0
+2002,Romania,73.4
+2002,Slovakia,151.6
+2002,Slovenia,148.4
+2002,Spain,140.2
+2002,Sweden,258.9
+2002,Switzerland,179.2
+2002,Turkey,46.9
+2002,Ukraine,116.5
+2002,United Kingdom,159.6
+2002,Other Europe,64.1
+2002,Azerbaijan,54.0
+2002,Belarus,91.1
+2002,Kazakhstan,99.5
+2002,Russian Federation,180.5
+2002,Turkmenistan,97.7
+2002,Uzbekistan,86.8
+2002,Other CIS,30.3
+2002,Iran,87.0
+2002,Iraq,47.0
+2002,Israel,131.3
+2002,Kuwait,398.8
+2002,Oman,199.2
+2002,Qatar,716.9
+2002,Saudi Arabia,235.7
+2002,United Arab Emirates,586.2
+2002,Other Middle East,37.4
+2002,Algeria,36.6
+2002,Egypt,29.5
+2002,Morocco,16.0
+2002,South Africa,87.7
+2002,Eastern Africa,3.7
+2002,Middle Africa,3.5
+2002,Western Africa,5.8
+2002,Other Northern Africa,61.7
+2002,Other Southern Africa,20.1
+2002,Australia,248.0
+2002,Bangladesh,4.2
+2002,China,38.2
+2002,China Hong Kong SAR,128.0
+2002,India,12.7
+2002,Indonesia,20.8
+2002,Japan,175.1
+2002,Malaysia,98.3
+2002,New Zealand,214.5
+2002,Pakistan,11.3
+2002,Philippines,13.4
+2002,Singapore,415.6
+2002,South Korea,183.0
+2002,Sri Lanka,10.1
+2002,Taiwan,175.7
+2002,Thailand,47.5
+2002,Vietnam,11.8
+2002,Other Asia Pacific,10.8
+2003,Canada,422.5
+2003,Mexico,61.2
+2003,US,326.2
+2003,Argentina,66.0
+2003,Brazil,47.2
+2003,Chile,73.2
+2003,Colombia,28.3
+2003,Ecuador,28.9
+2003,Peru,19.2
+2003,Trinidad & Tobago,414.9
+2003,Venezuela,112.2
+2003,Central America,22.0
+2003,Other Caribbean,46.7
+2003,Other South America,50.8
+2003,Austria,181.9
+2003,Belgium,263.6
+2003,Bulgaria,102.5
+2003,Croatia,85.8
+2003,Cyprus,115.5
+2003,Czech Republic,180.8
+2003,Denmark,170.3
+2003,Estonia,165.0
+2003,Finland,272.7
+2003,France,189.6
+2003,Germany,177.5
+2003,Greece,129.1
+2003,Hungary,101.2
+2003,Iceland,435.9
+2003,Ireland,160.8
+2003,Italy,134.8
+2003,Latvia,63.6
+2003,Lithuania,106.0
+2003,Luxembourg,364.5
+2003,Netherlands,235.1
+2003,North Macedonia,55.6
+2003,Norway,380.1
+2003,Poland,96.4
+2003,Portugal,104.3
+2003,Romania,73.9
+2003,Slovakia,147.3
+2003,Slovenia,145.2
+2003,Spain,145.5
+2003,Sweden,247.1
+2003,Switzerland,176.0
+2003,Turkey,49.0
+2003,Ukraine,120.4
+2003,United Kingdom,161.1
+2003,Other Europe,68.0
+2003,Azerbaijan,57.9
+2003,Belarus,91.1
+2003,Kazakhstan,108.5
+2003,Russian Federation,185.0
+2003,Turkmenistan,133.2
+2003,Uzbekistan,78.6
+2003,Other CIS,31.7
+2003,Iran,87.7
+2003,Iraq,40.4
+2003,Israel,132.8
+2003,Kuwait,464.4
+2003,Oman,204.3
+2003,Qatar,783.6
+2003,Saudi Arabia,244.0
+2003,United Arab Emirates,595.8
+2003,Other Middle East,38.0
+2003,Algeria,37.8
+2003,Egypt,30.6
+2003,Morocco,15.8
+2003,South Africa,94.1
+2003,Eastern Africa,3.7
+2003,Middle Africa,3.7
+2003,Western Africa,5.6
+2003,Other Northern Africa,62.9
+2003,Other Southern Africa,20.0
+2003,Australia,248.7
+2003,Bangladesh,4.3
+2003,China,44.2
+2003,China Hong Kong SAR,131.4
+2003,India,12.9
+2003,Indonesia,22.4
+2003,Japan,174.2
+2003,Malaysia,103.9
+2003,New Zealand,204.2
+2003,Pakistan,12.1
+2003,Philippines,13.5
+2003,Singapore,386.9
+2003,South Korea,188.1
+2003,Sri Lanka,10.3
+2003,Taiwan,182.6
+2003,Thailand,50.7
+2003,Vietnam,12.6
+2003,Other Asia Pacific,11.2
+2004,Canada,425.1
+2004,Mexico,63.8
+2004,US,329.4
+2004,Argentina,69.3
+2004,Brazil,48.9
+2004,Chile,77.4
+2004,Colombia,29.3
+2004,Ecuador,30.3
+2004,Peru,20.3
+2004,Trinidad & Tobago,453.7
+2004,Venezuela,119.8
+2004,Central America,22.4
+2004,Other Caribbean,46.8
+2004,Other South America,49.3
+2004,Austria,184.1
+2004,Belgium,263.3
+2004,Bulgaria,99.8
+2004,Croatia,89.6
+2004,Cyprus,110.4
+2004,Czech Republic,185.2
+2004,Denmark,160.6
+2004,Estonia,169.4
+2004,Finland,270.8
+2004,France,189.9
+2004,Germany,177.6
+2004,Greece,129.0
+2004,Hungary,103.0
+2004,Iceland,440.6
+2004,Ireland,161.0
+2004,Italy,136.7
+2004,Latvia,72.5
+2004,Lithuania,108.2
+2004,Luxembourg,407.2
+2004,Netherlands,242.0
+2004,North Macedonia,54.8
+2004,Norway,384.9
+2004,Poland,97.1
+2004,Portugal,102.0
+2004,Romania,77.3
+2004,Slovakia,144.0
+2004,Slovenia,153.6
+2004,Spain,148.3
+2004,Sweden,264.9
+2004,Switzerland,172.2
+2004,Turkey,51.8
+2004,Ukraine,120.8
+2004,United Kingdom,161.5
+2004,Other Europe,74.3
+2004,Azerbaijan,64.8
+2004,Belarus,102.6
+2004,Kazakhstan,114.5
+2004,Russian Federation,187.4
+2004,Turkmenistan,130.3
+2004,Uzbekistan,77.3
+2004,Other CIS,33.9
+2004,Iran,95.5
+2004,Iraq,42.1
+2004,Israel,132.9
+2004,Kuwait,506.3
+2004,Oman,186.9
+2004,Qatar,911.0
+2004,Saudi Arabia,259.0
+2004,United Arab Emirates,608.6
+2004,Other Middle East,38.3
+2004,Algeria,38.7
+2004,Egypt,31.7
+2004,Morocco,17.8
+2004,South Africa,101.8
+2004,Eastern Africa,3.8
+2004,Middle Africa,4.3
+2004,Western Africa,5.6
+2004,Other Northern Africa,67.0
+2004,Other Southern Africa,19.9
+2004,Australia,253.8
+2004,Bangladesh,4.5
+2004,China,51.4
+2004,China Hong Kong SAR,146.5
+2004,India,13.8
+2004,Indonesia,21.9
+2004,Japan,176.0
+2004,Malaysia,109.7
+2004,New Zealand,207.0
+2004,Pakistan,13.1
+2004,Philippines,13.6
+2004,Singapore,429.3
+2004,South Korea,191.7
+2004,Sri Lanka,9.9
+2004,Taiwan,189.4
+2004,Thailand,54.6
+2004,Vietnam,15.2
+2004,Other Asia Pacific,11.2
+2005,Canada,423.9
+2005,Mexico,69.0
+2005,US,326.4
+2005,Argentina,72.8
+2005,Brazil,49.7
+2005,Chile,79.5
+2005,Colombia,28.5
+2005,Ecuador,31.6
+2005,Peru,20.9
+2005,Trinidad & Tobago,483.7
+2005,Venezuela,121.5
+2005,Central America,22.2
+2005,Other Caribbean,46.6
+2005,Other South America,49.4
+2005,Austria,186.2
+2005,Belgium,258.8
+2005,Bulgaria,108.8
+2005,Croatia,88.8
+2005,Cyprus,121.5
+2005,Czech Republic,182.0
+2005,Denmark,150.7
+2005,Estonia,171.3
+2005,Finland,245.4
+2005,France,187.5
+2005,Germany,175.7
+2005,Greece,129.4
+2005,Hungary,110.1
+2005,Iceland,435.2
+2005,Ireland,164.4
+2005,Italy,136.1
+2005,Latvia,75.7
+2005,Lithuania,100.1
+2005,Luxembourg,407.0
+2005,Netherlands,246.2
+2005,North Macedonia,56.6
+2005,Norway,436.6
+2005,Poland,99.3
+2005,Portugal,101.6
+2005,Romania,78.2
+2005,Slovakia,151.5
+2005,Slovenia,153.0
+2005,Spain,146.8
+2005,Sweden,270.4
+2005,Switzerland,164.2
+2005,Turkey,52.2
+2005,Ukraine,123.2
+2005,United Kingdom,161.8
+2005,Other Europe,73.8
+2005,Azerbaijan,69.4
+2005,Belarus,103.0
+2005,Kazakhstan,116.7
+2005,Russian Federation,187.9
+2005,Turkmenistan,130.1
+2005,Uzbekistan,76.2
+2005,Other CIS,35.1
+2005,Iran,99.5
+2005,Iraq,38.7
+2005,Israel,131.3
+2005,Kuwait,538.0
+2005,Oman,221.9
+2005,Qatar,945.3
+2005,Saudi Arabia,267.2
+2005,United Arab Emirates,592.5
+2005,Other Middle East,41.0
+2005,Algeria,40.0
+2005,Egypt,31.8
+2005,Morocco,19.1
+2005,South Africa,95.4
+2005,Eastern Africa,3.9
+2005,Middle Africa,4.1
+2005,Western Africa,5.7
+2005,Other Northern Africa,67.3
+2005,Other Southern Africa,21.3
+2005,Australia,251.7
+2005,Bangladesh,4.8
+2005,China,58.0
+2005,China Hong Kong SAR,140.2
+2005,India,14.4
+2005,Indonesia,22.3
+2005,Japan,176.4
+2005,Malaysia,116.0
+2005,New Zealand,199.3
+2005,Pakistan,13.3
+2005,Philippines,13.4
+2005,Singapore,444.8
+2005,South Korea,197.5
+2005,Sri Lanka,11.3
+2005,Taiwan,191.1
+2005,Thailand,55.9
+2005,Vietnam,16.0
+2005,Other Asia Pacific,11.6
+2006,Canada,417.4
+2006,Mexico,69.0
+2006,US,320.6
+2006,Argentina,75.7
+2006,Brazil,50.5
+2006,Chile,81.5
+2006,Colombia,32.5
+2006,Ecuador,32.8
+2006,Peru,21.0
+2006,Trinidad & Tobago,561.7
+2006,Venezuela,126.1
+2006,Central America,23.0
+2006,Other Caribbean,47.5
+2006,Other South America,49.2
+2006,Austria,183.3
+2006,Belgium,257.9
+2006,Bulgaria,111.6
+2006,Croatia,88.0
+2006,Cyprus,117.4
+2006,Czech Republic,185.0
+2006,Denmark,165.9
+2006,Estonia,170.2
+2006,Finland,262.2
+2006,France,184.8
+2006,Germany,180.2
+2006,Greece,133.3
+2006,Hungary,108.1
+2006,Iceland,466.3
+2006,Ireland,165.2
+2006,Italy,134.9
+2006,Latvia,72.8
+2006,Lithuania,97.1
+2006,Luxembourg,393.4
+2006,Netherlands,240.3
+2006,North Macedonia,57.4
+2006,Norway,396.6
+2006,Poland,104.3
+2006,Portugal,100.6
+2006,Romania,80.5
+2006,Slovakia,147.4
+2006,Slovenia,153.7
+2006,Spain,146.5
+2006,Sweden,253.0
+2006,Switzerland,169.8
+2006,Turkey,57.2
+2006,Ukraine,125.5
+2006,United Kingdom,158.6
+2006,Other Europe,76.0
+2006,Azerbaijan,67.4
+2006,Belarus,110.2
+2006,Kazakhstan,124.3
+2006,Russian Federation,196.8
+2006,Turkmenistan,129.7
+2006,Uzbekistan,70.4
+2006,Other CIS,35.1
+2006,Iran,107.1
+2006,Iraq,37.3
+2006,Israel,129.7
+2006,Kuwait,489.2
+2006,Oman,239.4
+2006,Qatar,830.9
+2006,Saudi Arabia,269.5
+2006,United Arab Emirates,544.7
+2006,Other Middle East,40.6
+2006,Algeria,40.8
+2006,Egypt,32.9
+2006,Morocco,19.2
+2006,South Africa,96.5
+2006,Eastern Africa,3.9
+2006,Middle Africa,4.4
+2006,Western Africa,5.0
+2006,Other Northern Africa,67.1
+2006,Other Southern Africa,20.7
+2006,Australia,258.7
+2006,Bangladesh,5.2
+2006,China,63.2
+2006,China Hong Kong SAR,147.8
+2006,India,14.9
+2006,Indonesia,22.4
+2006,Japan,175.9
+2006,Malaysia,114.6
+2006,New Zealand,198.3
+2006,Pakistan,13.8
+2006,Philippines,12.5
+2006,Singapore,474.2
+2006,South Korea,200.1
+2006,Sri Lanka,12.0
+2006,Taiwan,195.5
+2006,Thailand,56.6
+2006,Vietnam,14.5
+2006,Other Asia Pacific,11.9
+2007,Canada,429.0
+2007,Mexico,68.8
+2007,US,321.8
+2007,Argentina,78.2
+2007,Brazil,53.2
+2007,Chile,80.6
+2007,Colombia,32.6
+2007,Ecuador,33.9
+2007,Peru,22.7
+2007,Trinidad & Tobago,575.9
+2007,Venezuela,131.2
+2007,Central America,23.6
+2007,Other Caribbean,44.9
+2007,Other South America,52.5
+2007,Austria,178.8
+2007,Belgium,258.0
+2007,Bulgaria,108.6
+2007,Croatia,88.6
+2007,Cyprus,117.3
+2007,Czech Republic,182.4
+2007,Denmark,156.8
+2007,Estonia,198.1
+2007,Finland,260.2
+2007,France,180.3
+2007,Germany,172.6
+2007,Greece,136.1
+2007,Hungary,106.9
+2007,Iceland,519.7
+2007,Ireland,162.9
+2007,Italy,131.6
+2007,Latvia,76.0
+2007,Lithuania,107.9
+2007,Luxembourg,376.0
+2007,Netherlands,243.2
+2007,North Macedonia,57.0
+2007,Norway,421.4
+2007,Poland,104.1
+2007,Portugal,101.2
+2007,Romania,78.3
+2007,Slovakia,138.3
+2007,Slovenia,152.1
+2007,Spain,146.9
+2007,Sweden,255.1
+2007,Switzerland,166.4
+2007,Turkey,60.0
+2007,Ukraine,125.8
+2007,United Kingdom,153.1
+2007,Other Europe,73.9
+2007,Azerbaijan,61.3
+2007,Belarus,108.0
+2007,Kazakhstan,136.1
+2007,Russian Federation,198.2
+2007,Turkmenistan,124.1
+2007,Uzbekistan,74.4
+2007,Other CIS,37.4
+2007,Iran,112.2
+2007,Iraq,38.0
+2007,Israel,132.2
+2007,Kuwait,448.0
+2007,Oman,238.4
+2007,Qatar,746.2
+2007,Saudi Arabia,265.1
+2007,United Arab Emirates,501.7
+2007,Other Middle East,39.7
+2007,Algeria,42.3
+2007,Egypt,34.4
+2007,Morocco,18.8
+2007,South Africa,98.1
+2007,Eastern Africa,4.0
+2007,Middle Africa,4.4
+2007,Western Africa,5.2
+2007,Other Northern Africa,64.5
+2007,Other Southern Africa,21.2
+2007,Australia,260.3
+2007,Bangladesh,5.2
+2007,China,68.2
+2007,China Hong Kong SAR,156.3
+2007,India,15.9
+2007,Indonesia,23.7
+2007,Japan,173.9
+2007,Malaysia,119.6
+2007,New Zealand,195.7
+2007,Pakistan,14.3
+2007,Philippines,12.7
+2007,Singapore,490.5
+2007,South Korea,205.3
+2007,Sri Lanka,12.1
+2007,Taiwan,203.1
+2007,Thailand,58.1
+2007,Vietnam,15.7
+2007,Other Asia Pacific,11.5
+2008,Canada,419.3
+2008,Mexico,70.7
+2008,US,311.0
+2008,Argentina,78.4
+2008,Brazil,54.9
+2008,Chile,79.8
+2008,Colombia,33.6
+2008,Ecuador,35.6
+2008,Peru,24.3
+2008,Trinidad & Tobago,564.2
+2008,Venezuela,126.8
+2008,Central America,23.9
+2008,Other Caribbean,43.0
+2008,Other South America,53.7
+2008,Austria,181.7
+2008,Belgium,260.3
+2008,Bulgaria,108.0
+2008,Croatia,88.4
+2008,Cyprus,118.2
+2008,Czech Republic,178.2
+2008,Denmark,148.3
+2008,Estonia,182.7
+2008,Finland,249.7
+2008,France,179.8
+2008,Germany,174.4
+2008,Greece,133.8
+2008,Hungary,105.6
+2008,Iceland,639.6
+2008,Ireland,158.8
+2008,Italy,128.4
+2008,Latvia,77.4
+2008,Lithuania,108.4
+2008,Luxembourg,366.6
+2008,Netherlands,239.3
+2008,North Macedonia,55.1
+2008,Norway,426.2
+2008,Poland,105.9
+2008,Portugal,97.6
+2008,Romania,79.1
+2008,Slovakia,142.0
+2008,Slovenia,165.7
+2008,Spain,140.6
+2008,Sweden,249.7
+2008,Switzerland,169.8
+2008,Turkey,59.5
+2008,Ukraine,122.1
+2008,United Kingdom,149.2
+2008,Other Europe,76.5
+2008,Azerbaijan,61.0
+2008,Belarus,109.8
+2008,Kazakhstan,141.8
+2008,Russian Federation,199.1
+2008,Turkmenistan,100.3
+2008,Uzbekistan,68.7
+2008,Other CIS,35.7
+2008,Iran,114.1
+2008,Iraq,42.6
+2008,Israel,133.7
+2008,Kuwait,458.3
+2008,Oman,272.7
+2008,Qatar,705.6
+2008,Saudi Arabia,279.3
+2008,United Arab Emirates,483.4
+2008,Other Middle East,40.4
+2008,Algeria,44.1
+2008,Egypt,35.7
+2008,Morocco,20.5
+2008,South Africa,103.9
+2008,Eastern Africa,3.9
+2008,Middle Africa,4.7
+2008,Western Africa,5.4
+2008,Other Northern Africa,66.0
+2008,Other Southern Africa,21.8
+2008,Australia,259.5
+2008,Bangladesh,5.5
+2008,China,70.4
+2008,China Hong Kong SAR,144.4
+2008,India,16.6
+2008,Indonesia,23.6
+2008,Japan,170.7
+2008,Malaysia,121.4
+2008,New Zealand,194.4
+2008,Pakistan,14.1
+2008,Philippines,12.9
+2008,Singapore,504.2
+2008,South Korea,208.0
+2008,Sri Lanka,11.3
+2008,Taiwan,195.9
+2008,Thailand,57.7
+2008,Vietnam,19.2
+2008,Other Asia Pacific,11.9
+2009,Canada,398.4
+2009,Mexico,68.6
+2009,US,293.0
+2009,Argentina,75.4
+2009,Brazil,54.0
+2009,Chile,75.8
+2009,Colombia,32.8
+2009,Ecuador,34.1
+2009,Peru,24.6
+2009,Trinidad & Tobago,556.2
+2009,Venezuela,124.8
+2009,Central America,23.1
+2009,Other Caribbean,40.0
+2009,Other South America,53.6
+2009,Austria,175.6
+2009,Belgium,238.6
+2009,Bulgaria,95.4
+2009,Croatia,87.5
+2009,Cyprus,113.4
+2009,Czech Republic,170.2
+2009,Denmark,139.8
+2009,Estonia,158.4
+2009,Finland,230.1
+2009,France,168.7
+2009,Germany,163.6
+2009,Greece,129.1
+2009,Hungary,98.1
+2009,Iceland,636.4
+2009,Ireland,141.3
+2009,Italy,119.2
+2009,Latvia,74.2
+2009,Lithuania,101.9
+2009,Luxembourg,344.1
+2009,Netherlands,235.0
+2009,North Macedonia,54.2
+2009,Norway,388.6
+2009,Poland,102.1
+2009,Portugal,98.3
+2009,Romania,69.5
+2009,Slovakia,128.5
+2009,Slovenia,152.2
+2009,Spain,129.3
+2009,Sweden,227.1
+2009,Switzerland,167.2
+2009,Turkey,59.5
+2009,Ukraine,104.4
+2009,United Kingdom,140.5
+2009,Other Europe,78.2
+2009,Azerbaijan,51.7
+2009,Belarus,104.2
+2009,Kazakhstan,125.7
+2009,Russian Federation,189.2
+2009,Turkmenistan,160.9
+2009,Uzbekistan,67.1
+2009,Other CIS,34.3
+2009,Iran,115.2
+2009,Iraq,40.4
+2009,Israel,127.7
+2009,Kuwait,449.9
+2009,Oman,265.8
+2009,Qatar,641.7
+2009,Saudi Arabia,278.7
+2009,United Arab Emirates,416.9
+2009,Other Middle East,39.8
+2009,Algeria,45.9
+2009,Egypt,36.3
+2009,Morocco,19.7
+2009,South Africa,102.2
+2009,Eastern Africa,4.0
+2009,Middle Africa,4.8
+2009,Western Africa,4.9
+2009,Other Northern Africa,69.4
+2009,Other Southern Africa,22.3
+2009,Australia,250.9
+2009,Bangladesh,6.0
+2009,China,73.0
+2009,China Hong Kong SAR,156.7
+2009,India,17.6
+2009,Indonesia,24.0
+2009,Japan,155.7
+2009,Malaysia,115.2
+2009,New Zealand,192.0
+2009,Pakistan,14.0
+2009,Philippines,12.8
+2009,Singapore,523.3
+2009,South Korea,208.3
+2009,Sri Lanka,11.3
+2009,Taiwan,190.3
+2009,Thailand,58.8
+2009,Vietnam,19.5
+2009,Other Asia Pacific,10.7
+2010,Canada,397.7
+2010,Mexico,67.9
+2010,US,300.2
+2010,Argentina,77.4
+2010,Brazil,58.4
+2010,Chile,77.1
+2010,Colombia,34.1
+2010,Ecuador,37.3
+2010,Peru,27.7
+2010,Trinidad & Tobago,597.0
+2010,Venezuela,118.6
+2010,Central America,23.7
+2010,Other Caribbean,39.0
+2010,Other South America,54.2
+2010,Austria,180.9
+2010,Belgium,253.1
+2010,Bulgaria,100.3
+2010,Croatia,89.2
+2010,Cyprus,108.5
+2010,Czech Republic,176.7
+2010,Denmark,147.8
+2010,Estonia,197.8
+2010,Finland,249.2
+2010,France,172.8
+2010,Germany,170.3
+2010,Greece,123.5
+2010,Hungary,100.1
+2010,Iceland,637.7
+2010,Ireland,141.9
+2010,Italy,122.6
+2010,Latvia,85.1
+2010,Lithuania,75.4
+2010,Luxembourg,355.8
+2010,Netherlands,253.6
+2010,North Macedonia,58.7
+2010,Norway,368.4
+2010,Poland,108.8
+2010,Portugal,103.7
+2010,Romania,70.6
+2010,Slovakia,137.1
+2010,Slovenia,151.6
+2010,Spain,132.2
+2010,Sweden,239.3
+2010,Switzerland,161.0
+2010,Turkey,62.0
+2010,Ukraine,112.4
+2010,United Kingdom,142.3
+2010,Other Europe,84.2
+2010,Azerbaijan,50.3
+2010,Belarus,113.3
+2010,Kazakhstan,133.0
+2010,Russian Federation,196.4
+2010,Turkmenistan,170.5
+2010,Uzbekistan,66.8
+2010,Other CIS,34.7
+2010,Iran,115.7
+2010,Iraq,43.8
+2010,Israel,130.4
+2010,Kuwait,480.6
+2010,Oman,296.0
+2010,Qatar,701.4
+2010,Saudi Arabia,300.0
+2010,United Arab Emirates,412.8
+2010,Other Middle East,39.0
+2010,Algeria,44.1
+2010,Egypt,36.9
+2010,Morocco,21.6
+2010,South Africa,101.7
+2010,Eastern Africa,4.2
+2010,Middle Africa,5.1
+2010,Western Africa,5.1
+2010,Other Northern Africa,70.6
+2010,Other Southern Africa,20.1
+2010,Australia,246.7
+2010,Bangladesh,6.1
+2010,China,77.6
+2010,China Hong Kong SAR,162.1
+2010,India,18.1
+2010,Indonesia,25.6
+2010,Japan,166.0
+2010,Malaysia,117.0
+2010,New Zealand,194.8
+2010,Pakistan,13.7
+2010,Philippines,13.0
+2010,Singapore,539.1
+2010,South Korea,224.0
+2010,Sri Lanka,12.1
+2010,Taiwan,203.7
+2010,Thailand,62.3
+2010,Vietnam,22.2
+2010,Other Asia Pacific,11.7
+2011,Canada,408.4
+2011,Mexico,70.0
+2011,US,295.1
+2011,Argentina,78.8
+2011,Brazil,59.9
+2011,Chile,80.9
+2011,Colombia,35.3
+2011,Ecuador,38.9
+2011,Peru,30.4
+2011,Trinidad & Tobago,582.3
+2011,Venezuela,120.0
+2011,Central America,23.9
+2011,Other Caribbean,38.9
+2011,Other South America,56.2
+2011,Austria,169.9
+2011,Belgium,234.5
+2011,Bulgaria,107.3
+2011,Croatia,78.1
+2011,Cyprus,106.0
+2011,Czech Republic,172.2
+2011,Denmark,138.3
+2011,Estonia,197.9
+2011,Finland,233.8
+2011,France,165.3
+2011,Germany,164.1
+2011,Greece,121.5
+2011,Hungary,97.5
+2011,Iceland,635.7
+2011,Ireland,134.9
+2011,Italy,119.8
+2011,Latvia,76.8
+2011,Lithuania,79.6
+2011,Luxembourg,339.2
+2011,Netherlands,240.4
+2011,North Macedonia,58.5
+2011,Norway,368.8
+2011,Poland,109.3
+2011,Portugal,99.2
+2011,Romania,72.8
+2011,Slovakia,131.7
+2011,Slovenia,146.6
+2011,Spain,129.2
+2011,Sweden,233.7
+2011,Switzerland,151.1
+2011,Turkey,65.3
+2011,Ukraine,116.6
+2011,United Kingdom,133.2
+2011,Other Europe,82.6
+2011,Azerbaijan,56.4
+2011,Belarus,111.5
+2011,Kazakhstan,148.8
+2011,Russian Federation,202.9
+2011,Turkmenistan,186.0
+2011,Uzbekistan,69.3
+2011,Other CIS,36.9
+2011,Iran,119.3
+2011,Iraq,43.5
+2011,Israel,130.5
+2011,Kuwait,462.1
+2011,Oman,291.5
+2011,Qatar,779.0
+2011,Saudi Arabia,305.3
+2011,United Arab Emirates,428.6
+2011,Other Middle East,36.0
+2011,Algeria,45.8
+2011,Egypt,37.9
+2011,Morocco,22.4
+2011,South Africa,99.2
+2011,Eastern Africa,4.3
+2011,Middle Africa,5.2
+2011,Western Africa,5.4
+2011,Other Northern Africa,51.3
+2011,Other Southern Africa,22.4
+2011,Australia,251.0
+2011,Bangladesh,6.5
+2011,China,83.1
+2011,China Hong Kong SAR,165.2
+2011,India,18.9
+2011,Indonesia,26.7
+2011,Japan,157.4
+2011,Malaysia,117.1
+2011,New Zealand,194.0
+2011,Pakistan,13.4
+2011,Philippines,13.0
+2011,Singapore,547.1
+2011,South Korea,232.7
+2011,Sri Lanka,13.0
+2011,Taiwan,202.2
+2011,Thailand,63.5
+2011,Vietnam,24.3
+2011,Other Asia Pacific,11.5
+2012,Canada,405.3
+2012,Mexico,69.7
+2012,US,284.8
+2012,Argentina,81.0
+2012,Brazil,61.1
+2012,Chile,83.6
+2012,Colombia,37.1
+2012,Ecuador,40.4
+2012,Peru,31.1
+2012,Trinidad & Tobago,569.1
+2012,Venezuela,124.0
+2012,Central America,24.5
+2012,Other Caribbean,38.1
+2012,Other South America,56.4
+2012,Austria,177.0
+2012,Belgium,223.5
+2012,Bulgaria,102.7
+2012,Croatia,72.8
+2012,Cyprus,98.4
+2012,Czech Republic,171.1
+2012,Denmark,128.0
+2012,Estonia,200.0
+2012,Finland,226.4
+2012,France,164.5
+2012,Germany,166.1
+2012,Greece,114.7
+2012,Hungary,91.1
+2012,Iceland,638.2
+2012,Ireland,132.1
+2012,Italy,116.3
+2012,Latvia,80.6
+2012,Lithuania,80.6
+2012,Luxembourg,325.4
+2012,Netherlands,235.0
+2012,North Macedonia,54.2
+2012,Norway,403.1
+2012,Poland,106.2
+2012,Portugal,90.9
+2012,Romania,70.3
+2012,Slovakia,126.4
+2012,Slovenia,142.2
+2012,Spain,128.5
+2012,Sweden,245.8
+2012,Switzerland,158.0
+2012,Turkey,68.4
+2012,Ukraine,114.4
+2012,United Kingdom,134.3
+2012,Other Europe,77.8
+2012,Azerbaijan,57.4
+2012,Belarus,120.8
+2012,Kazakhstan,154.3
+2012,Russian Federation,203.7
+2012,Turkmenistan,199.1
+2012,Uzbekistan,66.3
+2012,Other CIS,38.1
+2012,Iran,119.1
+2012,Iraq,45.4
+2012,Israel,134.2
+2012,Kuwait,440.0
+2012,Oman,288.5
+2012,Qatar,836.3
+2012,Saudi Arabia,317.0
+2012,United Arab Emirates,446.3
+2012,Other Middle East,33.6
+2012,Algeria,49.0
+2012,Egypt,38.5
+2012,Morocco,22.5
+2012,South Africa,96.4
+2012,Eastern Africa,4.3
+2012,Middle Africa,5.5
+2012,Western Africa,5.5
+2012,Other Northern Africa,61.9
+2012,Other Southern Africa,24.4
+2012,Australia,243.3
+2012,Bangladesh,7.0
+2012,China,85.9
+2012,China Hong Kong SAR,157.5
+2012,India,19.6
+2012,Indonesia,27.3
+2012,Japan,156.3
+2012,Malaysia,126.0
+2012,New Zealand,194.1
+2012,Pakistan,12.2
+2012,Philippines,13.2
+2012,Singapore,538.1
+2012,South Korea,233.3
+2012,Sri Lanka,13.4
+2012,Taiwan,199.6
+2012,Thailand,67.7
+2012,Vietnam,25.2
+2012,Other Asia Pacific,12.0
+2013,Canada,410.6
+2013,Mexico,68.8
+2013,US,290.0
+2013,Argentina,83.3
+2013,Brazil,62.0
+2013,Chile,85.1
+2013,Colombia,37.8
+2013,Ecuador,41.1
+2013,Peru,31.5
+2013,Trinidad & Tobago,575.5
+2013,Venezuela,123.5
+2013,Central America,24.5
+2013,Other Caribbean,36.8
+2013,Other South America,57.8
+2013,Austria,174.6
+2013,Belgium,227.6
+2013,Bulgaria,96.0
+2013,Croatia,80.3
+2013,Cyprus,87.2
+2013,Czech Republic,167.8
+2013,Denmark,133.0
+2013,Estonia,211.6
+2013,Finland,226.2
+2013,France,165.3
+2013,Germany,170.5
+2013,Greece,108.3
+2013,Hungary,86.6
+2013,Iceland,652.4
+2013,Ireland,129.4
+2013,Italy,110.9
+2013,Latvia,78.4
+2013,Lithuania,75.4
+2013,Luxembourg,302.9
+2013,Netherlands,226.9
+2013,North Macedonia,51.8
+2013,Norway,373.4
+2013,Poland,106.5
+2013,Portugal,100.4
+2013,Romania,65.8
+2013,Slovakia,129.4
+2013,Slovenia,140.5
+2013,Spain,122.4
+2013,Sweden,228.1
+2013,Switzerland,160.3
+2013,Turkey,66.7
+2013,Ukraine,108.8
+2013,United Kingdom,132.8
+2013,Other Europe,82.9
+2013,Azerbaijan,57.9
+2013,Belarus,109.5
+2013,Kazakhstan,152.8
+2013,Russian Federation,200.9
+2013,Turkmenistan,173.7
+2013,Uzbekistan,65.5
+2013,Other CIS,36.0
+2013,Iran,121.5
+2013,Iraq,48.1
+2013,Israel,124.8
+2013,Kuwait,419.2
+2013,Oman,299.5
+2013,Qatar,850.3
+2013,Saudi Arabia,312.3
+2013,United Arab Emirates,466.2
+2013,Other Middle East,32.1
+2013,Algeria,50.9
+2013,Egypt,37.3
+2013,Morocco,22.8
+2013,South Africa,95.5
+2013,Eastern Africa,4.6
+2013,Middle Africa,6.0
+2013,Western Africa,5.4
+2013,Other Northern Africa,65.6
+2013,Other Southern Africa,24.0
+2013,Australia,242.3
+2013,Bangladesh,7.2
+2013,China,88.6
+2013,China Hong Kong SAR,160.4
+2013,India,20.0
+2013,Indonesia,26.0
+2013,Japan,155.4
+2013,Malaysia,129.8
+2013,New Zealand,193.8
+2013,Pakistan,13.2
+2013,Philippines,13.9
+2013,Singapore,533.9
+2013,South Korea,232.0
+2013,Sri Lanka,13.5
+2013,Taiwan,203.0
+2013,Thailand,67.7
+2013,Vietnam,26.3
+2013,Other Asia Pacific,11.7
+2014,Canada,407.5
+2014,Mexico,67.5
+2014,US,290.6
+2014,Argentina,82.4
+2014,Brazil,63.1
+2014,Chile,83.4
+2014,Colombia,39.4
+2014,Ecuador,42.5
+2014,Peru,31.9
+2014,Trinidad & Tobago,568.6
+2014,Venezuela,117.2
+2014,Central America,24.9
+2014,Other Caribbean,36.6
+2014,Other South America,55.9
+2014,Austria,166.3
+2014,Belgium,209.6
+2014,Bulgaria,103.3
+2014,Croatia,80.7
+2014,Cyprus,86.5
+2014,Czech Republic,164.3
+2014,Denmark,127.4
+2014,Estonia,203.1
+2014,Finland,217.4
+2014,France,157.7
+2014,Germany,163.2
+2014,Greece,102.0
+2014,Hungary,86.9
+2014,Iceland,644.2
+2014,Ireland,128.2
+2014,Italy,105.2
+2014,Latvia,72.9
+2014,Lithuania,73.5
+2014,Luxembourg,286.6
+2014,Netherlands,215.8
+2014,North Macedonia,47.8
+2014,Norway,380.3
+2014,Poland,102.7
+2014,Portugal,103.0
+2014,Romania,68.5
+2014,Slovakia,120.3
+2014,Slovenia,144.0
+2014,Spain,120.5
+2014,Sweden,224.7
+2014,Switzerland,151.1
+2014,Turkey,67.4
+2014,Ukraine,96.4
+2014,United Kingdom,124.5
+2014,Other Europe,76.2
+2014,Azerbaijan,58.1
+2014,Belarus,109.5
+2014,Kazakhstan,158.2
+2014,Russian Federation,201.0
+2014,Turkmenistan,176.7
+2014,Uzbekistan,66.7
+2014,Other CIS,36.5
+2014,Iran,124.1
+2014,Iraq,46.2
+2014,Israel,119.6
+2014,Kuwait,413.3
+2014,Oman,283.6
+2014,Qatar,844.3
+2014,Saudi Arabia,328.5
+2014,United Arab Emirates,460.7
+2014,Other Middle East,31.3
+2014,Algeria,54.4
+2014,Egypt,36.0
+2014,Morocco,22.8
+2014,South Africa,95.1
+2014,Eastern Africa,4.9
+2014,Middle Africa,6.1
+2014,Western Africa,5.4
+2014,Other Northern Africa,63.7
+2014,Other Southern Africa,25.7
+2014,Australia,240.3
+2014,Bangladesh,7.3
+2014,China,90.3
+2014,China Hong Kong SAR,155.3
+2014,India,21.1
+2014,Indonesia,26.0
+2014,Japan,151.7
+2014,Malaysia,129.1
+2014,New Zealand,199.9
+2014,Pakistan,13.4
+2014,Philippines,14.4
+2014,Singapore,535.3
+2014,South Korea,231.9
+2014,Sri Lanka,14.4
+2014,Taiwan,206.7
+2014,Thailand,69.5
+2014,Vietnam,28.7
+2014,Other Asia Pacific,12.4
+2015,Canada,406.4
+2015,Mexico,66.0
+2015,US,285.5
+2015,Argentina,83.0
+2015,Brazil,61.7
+2015,Chile,83.4
+2015,Colombia,36.9
+2015,Ecuador,41.8
+2015,Peru,33.0
+2015,Trinidad & Tobago,548.1
+2015,Venezuela,114.3
+2015,Central America,27.0
+2015,Other Caribbean,37.7
+2015,Other South America,55.9
+2015,Austria,164.5
+2015,Belgium,210.4
+2015,Bulgaria,110.7
+2015,Croatia,77.0
+2015,Cyprus,88.5
+2015,Czech Republic,161.0
+2015,Denmark,123.5
+2015,Estonia,187.9
+2015,Finland,216.1
+2015,France,158.1
+2015,Germany,165.8
+2015,Greece,103.8
+2015,Hungary,91.8
+2015,Iceland,665.6
+2015,Ireland,134.2
+2015,Italy,108.5
+2015,Latvia,75.4
+2015,Lithuania,77.6
+2015,Luxembourg,272.1
+2015,Netherlands,218.5
+2015,North Macedonia,50.4
+2015,Norway,380.1
+2015,Poland,103.9
+2015,Portugal,101.1
+2015,Romania,69.2
+2015,Slovakia,121.4
+2015,Slovenia,129.5
+2015,Spain,122.1
+2015,Sweden,230.0
+2015,Switzerland,146.1
+2015,Turkey,72.6
+2015,Ukraine,80.3
+2015,United Kingdom,125.6
+2015,Other Europe,81.5
+2015,Azerbaijan,62.8
+2015,Belarus,99.1
+2015,Kazakhstan,129.6
+2015,Russian Federation,197.3
+2015,Turkmenistan,207.8
+2015,Uzbekistan,62.6
+2015,Other CIS,35.9
+2015,Iran,120.8
+2015,Iraq,44.8
+2015,Israel,123.9
+2015,Kuwait,413.3
+2015,Oman,289.2
+2015,Qatar,883.0
+2015,Saudi Arabia,336.0
+2015,United Arab Emirates,496.4
+2015,Other Middle East,28.7
+2015,Algeria,56.2
+2015,Egypt,35.8
+2015,Morocco,22.9
+2015,South Africa,91.3
+2015,Eastern Africa,5.0
+2015,Middle Africa,5.9
+2015,Western Africa,6.0
+2015,Other Northern Africa,62.4
+2015,Other Southern Africa,25.4
+2015,Australia,242.0
+2015,Bangladesh,8.8
+2015,China,90.8
+2015,China Hong Kong SAR,158.8
+2015,India,21.6
+2015,Indonesia,26.2
+2015,Japan,149.8
+2015,Malaysia,129.2
+2015,New Zealand,197.8
+2015,Pakistan,13.9
+2015,Philippines,15.5
+2015,Singapore,559.7
+2015,South Korea,234.0
+2015,Sri Lanka,16.1
+2015,Taiwan,205.7
+2015,Thailand,70.8
+2015,Vietnam,32.4
+2015,Other Asia Pacific,12.8
+2016,Canada,396.7
+2016,Mexico,66.7
+2016,US,283.0
+2016,Argentina,81.8
+2016,Brazil,59.7
+2016,Chile,86.4
+2016,Colombia,41.2
+2016,Ecuador,41.0
+2016,Peru,34.6
+2016,Trinidad & Tobago,483.2
+2016,Venezuela,98.9
+2016,Central America,27.8
+2016,Other Caribbean,38.8
+2016,Other South America,59.9
+2016,Austria,168.1
+2016,Belgium,225.7
+2016,Bulgaria,105.9
+2016,Croatia,80.7
+2016,Cyprus,95.4
+2016,Czech Republic,158.8
+2016,Denmark,124.8
+2016,Estonia,193.6
+2016,Finland,218.9
+2016,France,155.0
+2016,Germany,168.0
+2016,Greece,102.8
+2016,Hungary,93.7
+2016,Iceland,658.9
+2016,Ireland,138.7
+2016,Italy,109.1
+2016,Latvia,81.2
+2016,Lithuania,79.9
+2016,Luxembourg,262.0
+2016,Netherlands,219.4
+2016,North Macedonia,52.2
+2016,Norway,382.3
+2016,Poland,108.4
+2016,Portugal,108.5
+2016,Romania,69.6
+2016,Slovakia,122.5
+2016,Slovenia,137.8
+2016,Spain,123.2
+2016,Sweden,223.5
+2016,Switzerland,135.9
+2016,Turkey,75.0
+2016,Ukraine,84.3
+2016,United Kingdom,123.5
+2016,Other Europe,86.7
+2016,Azerbaijan,61.5
+2016,Belarus,101.2
+2016,Kazakhstan,143.7
+2016,Russian Federation,200.8
+2016,Turkmenistan,202.2
+2016,Uzbekistan,58.9
+2016,Other CIS,35.8
+2016,Iran,124.4
+2016,Iraq,49.5
+2016,Israel,124.1
+2016,Kuwait,394.2
+2016,Oman,276.5
+2016,Qatar,803.7
+2016,Saudi Arabia,342.6
+2016,United Arab Emirates,511.6
+2016,Other Middle East,27.8
+2016,Algeria,55.1
+2016,Egypt,37.0
+2016,Morocco,22.9
+2016,South Africa,94.5
+2016,Eastern Africa,4.8
+2016,Middle Africa,5.7
+2016,Western Africa,6.0
+2016,Other Northern Africa,63.3
+2016,Other Southern Africa,24.5
+2016,Australia,239.1
+2016,Bangladesh,8.7
+2016,China,90.6
+2016,China Hong Kong SAR,162.2
+2016,India,22.3
+2016,Indonesia,26.0
+2016,Japan,148.2
+2016,Malaysia,133.9
+2016,New Zealand,196.6
+2016,Pakistan,15.0
+2016,Philippines,16.7
+2016,Singapore,584.1
+2016,South Korea,239.4
+2016,Sri Lanka,17.6
+2016,Taiwan,206.4
+2016,Thailand,71.9
+2016,Vietnam,34.8
+2016,Other Asia Pacific,13.6
+2017,Canada,397.8
+2017,Mexico,67.3
+2017,US,281.8
+2017,Argentina,81.0
+2017,Brazil,59.8
+2017,Chile,88.3
+2017,Colombia,40.9
+2017,Ecuador,42.0
+2017,Peru,34.6
+2017,Trinidad & Tobago,509.6
+2017,Venezuela,100.2
+2017,Central America,28.4
+2017,Other Caribbean,37.2
+2017,Other South America,58.7
+2017,Austria,170.7
+2017,Belgium,226.4
+2017,Bulgaria,109.4
+2017,Croatia,81.4
+2017,Cyprus,97.1
+2017,Czech Republic,167.7
+2017,Denmark,124.8
+2017,Estonia,214.4
+2017,Finland,213.9
+2017,France,153.5
+2017,Germany,169.6
+2017,Greece,108.5
+2017,Hungary,99.0
+2017,Iceland,673.1
+2017,Ireland,137.6
+2017,Italy,110.6
+2017,Latvia,90.2
+2017,Lithuania,85.1
+2017,Luxembourg,267.8
+2017,Netherlands,220.0
+2017,North Macedonia,50.2
+2017,Norway,381.2
+2017,Poland,112.7
+2017,Portugal,105.4
+2017,Romania,71.1
+2017,Slovakia,128.8
+2017,Slovenia,138.7
+2017,Spain,124.3
+2017,Sweden,228.3
+2017,Switzerland,135.0
+2017,Turkey,78.4
+2017,Ukraine,78.6
+2017,United Kingdom,122.8
+2017,Other Europe,86.6
+2017,Azerbaijan,59.8
+2017,Belarus,103.0
+2017,Kazakhstan,152.7
+2017,Russian Federation,201.5
+2017,Turkmenistan,196.7
+2017,Uzbekistan,59.9
+2017,Other CIS,36.9
+2017,Iran,127.2
+2017,Iraq,54.3
+2017,Israel,124.3
+2017,Kuwait,393.5
+2017,Oman,280.1
+2017,Qatar,744.8
+2017,Saudi Arabia,335.0
+2017,United Arab Emirates,488.2
+2017,Other Middle East,28.5
+2017,Algeria,54.6
+2017,Egypt,37.7
+2017,Morocco,23.7
+2017,South Africa,93.7
+2017,Eastern Africa,4.9
+2017,Middle Africa,5.4
+2017,Western Africa,6.3
+2017,Other Northern Africa,61.8
+2017,Other Southern Africa,25.7
+2017,Australia,234.5
+2017,Bangladesh,9.0
+2017,China,93.6
+2017,China Hong Kong SAR,173.4
+2017,India,22.8
+2017,Indonesia,26.6
+2017,Japan,150.4
+2017,Malaysia,133.8
+2017,New Zealand,197.1
+2017,Pakistan,15.7
+2017,Philippines,18.0
+2017,Singapore,593.3
+2017,South Korea,240.9
+2017,Sri Lanka,17.0
+2017,Taiwan,205.5
+2017,Thailand,73.0
+2017,Vietnam,37.1
+2017,Other Asia Pacific,16.1
+2018,Canada,396.2
+2018,Mexico,65.8
+2018,US,290.1
+2018,Argentina,79.8
+2018,Brazil,59.5
+2018,Chile,90.1
+2018,Colombia,40.8
+2018,Ecuador,43.6
+2018,Peru,35.6
+2018,Trinidad & Tobago,473.9
+2018,Venezuela,86.7
+2018,Central America,28.5
+2018,Other Caribbean,37.9
+2018,Other South America,58.7
+2018,Austria,166.3
+2018,Belgium,224.6
+2018,Bulgaria,110.7
+2018,Croatia,84.9
+2018,Cyprus,95.9
+2018,Czech Republic,167.1
+2018,Denmark,122.6
+2018,Estonia,212.0
+2018,Finland,217.9
+2018,France,156.0
+2018,Germany,164.8
+2018,Greece,109.7
+2018,Hungary,99.9
+2018,Iceland,677.9
+2018,Ireland,138.9
+2018,Italy,111.4
+2018,Latvia,81.0
+2018,Lithuania,88.6
+2018,Luxembourg,275.0
+2018,Netherlands,213.7
+2018,North Macedonia,50.1
+2018,Norway,372.8
+2018,Poland,114.0
+2018,Portugal,107.6
+2018,Romania,72.8
+2018,Slovakia,126.4
+2018,Slovenia,141.0
+2018,Spain,126.0
+2018,Sweden,221.4
+2018,Switzerland,136.1
+2018,Turkey,76.8
+2018,Ukraine,82.0
+2018,United Kingdom,121.6
+2018,Other Europe,91.1
+2018,Azerbaijan,60.8
+2018,Belarus,114.1
+2018,Kazakhstan,156.0
+2018,Russian Federation,208.6
+2018,Turkmenistan,215.5
+2018,Uzbekistan,59.2
+2018,Other CIS,39.8
+2018,Iran,129.8
+2018,Iraq,53.6
+2018,Israel,124.2
+2018,Kuwait,385.0
+2018,Oman,294.0
+2018,Qatar,729.3
+2018,Saudi Arabia,318.9
+2018,United Arab Emirates,478.0
+2018,Other Middle East,27.4
+2018,Algeria,57.5
+2018,Egypt,37.0
+2018,Morocco,24.2
+2018,South Africa,89.1
+2018,Eastern Africa,5.0
+2018,Middle Africa,5.5
+2018,Western Africa,6.8
+2018,Other Northern Africa,61.6
+2018,Other Southern Africa,25.9
+2018,Australia,234.3
+2018,Bangladesh,9.5
+2018,China,97.6
+2018,China Hong Kong SAR,175.0
+2018,India,23.9
+2018,Indonesia,28.9
+2018,Japan,150.1
+2018,Malaysia,134.4
+2018,New Zealand,192.3
+2018,Pakistan,15.9
+2018,Philippines,18.1
+2018,Singapore,588.7
+2018,South Korea,244.2
+2018,Sri Lanka,17.6
+2018,Taiwan,207.7
+2018,Thailand,75.0
+2018,Vietnam,41.2
+2018,Other Asia Pacific,16.7
+2019,Canada,388.7
+2019,Mexico,64.5
+2019,US,286.2
+2019,Argentina,74.6
+2019,Brazil,60.1
+2019,Chile,89.6
+2019,Colombia,40.4
+2019,Ecuador,43.8
+2019,Peru,35.8
+2019,Trinidad & Tobago,445.4
+2019,Venezuela,76.4
+2019,Central America,29.6
+2019,Other Caribbean,38.7
+2019,Other South America,55.0
+2019,Austria,173.9
+2019,Belgium,230.9
+2019,Bulgaria,108.0
+2019,Croatia,83.5
+2019,Cyprus,95.2
+2019,Czech Republic,163.3
+2019,Denmark,119.3
+2019,Estonia,170.3
+2019,Finland,213.2
+2019,France,152.4
+2019,Germany,160.1
+2019,Greece,107.9
+2019,Hungary,101.3
+2019,Iceland,631.9
+2019,Ireland,137.8
+2019,Italy,109.7
+2019,Latvia,84.2
+2019,Lithuania,89.5
+2019,Luxembourg,274.6
+2019,Netherlands,211.8
+2019,North Macedonia,52.9
+2019,Norway,347.0
+2019,Poland,110.8
+2019,Portugal,102.5
+2019,Romania,71.4
+2019,Slovakia,122.0
+2019,Slovenia,136.5
+2019,Spain,121.6
+2019,Sweden,227.8
+2019,Switzerland,141.0
+2019,Turkey,79.1
+2019,Ukraine,78.0
+2019,United Kingdom,118.4
+2019,Other Europe,89.4
+2019,Azerbaijan,63.2
+2019,Belarus,114.9
+2019,Kazakhstan,156.3
+2019,Russian Federation,207.0
+2019,Turkmenistan,208.7
+2019,Uzbekistan,58.4
+2019,Other CIS,38.0
+2019,Iran,135.5
+2019,Iraq,55.5
+2019,Israel,126.3
+2019,Kuwait,340.6
+2019,Oman,291.9
+2019,Qatar,748.9
+2019,Saudi Arabia,298.8
+2019,United Arab Emirates,485.6
+2019,Other Middle East,26.8
+2019,Algeria,58.5
+2019,Egypt,35.7
+2019,Morocco,26.2
+2019,South Africa,91.8
+2019,Eastern Africa,4.9
+2019,Middle Africa,5.4
+2019,Western Africa,7.0
+2019,Other Northern Africa,59.8
+2019,Other Southern Africa,24.4
+2019,Australia,238.5
+2019,Bangladesh,10.5
+2019,China,101.8
+2019,China Hong Kong SAR,165.6
+2019,India,24.2
+2019,Indonesia,30.5
+2019,Japan,147.1
+2019,Malaysia,136.2
+2019,New Zealand,191.7
+2019,Pakistan,15.8
+2019,Philippines,18.4
+2019,Singapore,571.2
+2019,South Korea,240.8
+2019,Sri Lanka,17.9
+2019,Taiwan,203.6
+2019,Thailand,74.9
+2019,Vietnam,45.3
+2019,Other Asia Pacific,17.2
+2020,Canada,361.8
+2020,Mexico,59.0
+2020,US,263.7
+2020,Argentina,69.5
+2020,Brazil,57.3
+2020,Chile,82.5
+2020,Colombia,36.2
+2020,Ecuador,37.3
+2020,Peru,30.1
+2020,Trinidad & Tobago,391.7
+2020,Venezuela,63.8
+2020,Central America,26.7
+2020,Other Caribbean,35.0
+2020,Other South America,47.4
+2020,Austria,162.1
+2020,Belgium,206.8
+2020,Bulgaria,100.8
+2020,Croatia,80.3
+2020,Cyprus,82.3
+2020,Czech Republic,151.3
+2020,Denmark,105.8
+2020,Estonia,159.2
+2020,Finland,203.9
+2020,France,137.0
+2020,Germany,149.0
+2020,Greece,94.8
+2020,Hungary,99.8
+2020,Iceland,560.7
+2020,Ireland,128.3
+2020,Italy,99.9
+2020,Latvia,77.5
+2020,Lithuania,89.7
+2020,Luxembourg,231.3
+2020,Netherlands,204.1
+2020,North Macedonia,46.2
+2020,Norway,374.0
+2020,Poland,106.3
+2020,Portugal,92.8
+2020,Romania,68.4
+2020,Slovakia,119.5
+2020,Slovenia,131.6
+2020,Spain,109.4
+2020,Sweden,213.8
+2020,Switzerland,128.8
+2020,Turkey,77.2
+2020,Ukraine,75.3
+2020,United Kingdom,105.9
+2020,Other Europe,87.1
+2020,Azerbaijan,64.1
+2020,Belarus,107.2
+2020,Kazakhstan,142.5
+2020,Russian Federation,199.6
+2020,Turkmenistan,243.5
+2020,Uzbekistan,57.1
+2020,Other CIS,37.5
+2020,Iran,139.3
+2020,Iraq,46.8
+2020,Israel,117.3
+2020,Kuwait,328.1
+2020,Oman,284.5
+2020,Qatar,662.7
+2020,Saudi Arabia,289.1
+2020,United Arab Emirates,453.9
+2020,Other Middle East,25.0
+2020,Algeria,53.8
+2020,Egypt,33.0
+2020,Morocco,23.6
+2020,South Africa,84.8
+2020,Eastern Africa,4.6
+2020,Middle Africa,5.1
+2020,Western Africa,6.8
+2020,Other Northern Africa,53.9
+2020,Other Southern Africa,21.8
+2020,Australia,222.6
+2020,Bangladesh,9.8
+2020,China,104.9
+2020,China Hong Kong SAR,123.9
+2020,India,22.7
+2020,Indonesia,28.0
+2020,Japan,136.9
+2020,Malaysia,129.6
+2020,New Zealand,170.6
+2020,Pakistan,15.5
+2020,Philippines,16.4
+2020,Singapore,555.3
+2020,South Korea,231.5
+2020,Sri Lanka,17.5
+2020,Taiwan,197.5
+2020,Thailand,69.5
+2020,Vietnam,44.9
+2020,Other Asia Pacific,17.4
+2021,Canada,362.7
+2021,Mexico,63.1
+2021,US,277.2
+2021,Argentina,76.8
+2021,Brazil,60.0
+2021,Chile,88.1
+2021,Colombia,40.1
+2021,Ecuador,42.9
+2021,Peru,33.9
+2021,Trinidad & Tobago,399.8
+2021,Venezuela,74.5
+2021,Central America,29.7
+2021,Other Caribbean,35.1
+2021,Other South America,49.8
+2021,Austria,162.9
+2021,Belgium,228.9
+2021,Bulgaria,116.0
+2021,Croatia,87.2
+2021,Cyprus,86.3
+2021,Czech Republic,159.8
+2021,Denmark,115.7
+2021,Estonia,167.0
+2021,Finland,208.0
+2021,France,145.7
+2021,Germany,153.2
+2021,Greece,104.3
+2021,Hungary,105.3
+2021,Iceland,564.9
+2021,Ireland,129.6
+2021,Italy,107.0
+2021,Latvia,81.5
+2021,Lithuania,90.6
+2021,Luxembourg,243.7
+2021,Netherlands,208.8
+2021,North Macedonia,48.4
+2021,Norway,379.2
+2021,Poland,115.2
+2021,Portugal,93.2
+2021,Romania,72.1
+2021,Slovakia,129.0
+2021,Slovenia,130.2
+2021,Spain,117.0
+2021,Sweden,216.7
+2021,Switzerland,123.7
+2021,Turkey,82.1
+2021,Ukraine,77.3
+2021,United Kingdom,107.0
+2021,Other Europe,91.1
+2021,Azerbaijan,68.3
+2021,Belarus,114.9
+2021,Kazakhstan,152.8
+2021,Russian Federation,217.0
+2021,Turkmenistan,255.1
+2021,Uzbekistan,59.6
+2021,Other CIS,37.7
+2021,Iran,137.6
+2021,Iraq,47.8
+2021,Israel,117.3
+2021,Kuwait,353.0
+2021,Oman,313.8
+2021,Qatar,717.9
+2021,Saudi Arabia,299.2
+2021,United Arab Emirates,503.4
+2021,Other Middle East,25.5
+2021,Algeria,57.3
+2021,Egypt,34.7
+2021,Morocco,26.1
+2021,South Africa,84.2
+2021,Eastern Africa,4.9
+2021,Middle Africa,5.1
+2021,Western Africa,7.1
+2021,Other Northern Africa,65.9
+2021,Other Southern Africa,23.2
+2021,Australia,221.2
+2021,Bangladesh,10.2
+2021,China,110.8
+2021,China Hong Kong SAR,116.9
+2021,India,24.5
+2021,Indonesia,28.3
+2021,Japan,144.0
+2021,Malaysia,136.4
+2021,New Zealand,165.3
+2021,Pakistan,16.9
+2021,Philippines,17.3
+2021,Singapore,551.9
+2021,South Korea,242.4
+2021,Sri Lanka,17.6
+2021,Taiwan,208.8
+2021,Thailand,69.9
+2021,Vietnam,44.6
+2021,Other Asia Pacific,18.0
+2022,Canada,367.8
+2022,Mexico,68.4
+2022,US,283.5
+2022,Argentina,79.2
+2022,Brazil,62.3
+2022,Chile,91.2
+2022,Colombia,42.3
+2022,Ecuador,43.7
+2022,Peru,35.4
+2022,Trinidad & Tobago,386.2
+2022,Venezuela,78.1
+2022,Central America,30.5
+2022,Other Caribbean,35.4
+2022,Other South America,50.9
+2022,Austria,153.7
+2022,Belgium,210.2
+2022,Bulgaria,123.0
+2022,Croatia,84.5
+2022,Cyprus,91.3
+2022,Czech Republic,159.3
+2022,Denmark,115.9
+2022,Estonia,167.4
+2022,Finland,212.3
+2022,France,129.8
+2022,Germany,147.5
+2022,Greece,109.5
+2022,Hungary,96.0
+2022,Iceland,597.1
+2022,Ireland,135.9
+2022,Italy,104.1
+2022,Latvia,77.2
+2022,Lithuania,83.3
+2022,Luxembourg,217.2
+2022,Netherlands,201.6
+2022,North Macedonia,50.0
+2022,Norway,348.9
+2022,Poland,108.2
+2022,Portugal,90.3
+2022,Romania,66.0
+2022,Slovakia,122.0
+2022,Slovenia,123.8
+2022,Spain,121.0
+2022,Sweden,215.7
+2022,Switzerland,120.1
+2022,Turkey,82.2
+2022,Ukraine,58.7
+2022,United Kingdom,108.4
+2022,Other Europe,90.2
+2022,Azerbaijan,67.5
+2022,Belarus,112.1
+2022,Kazakhstan,160.9
+2022,Russian Federation,199.7
+2022,Turkmenistan,256.9
+2022,Uzbekistan,60.9
+2022,Other CIS,36.0
+2022,Iran,137.3
+2022,Iraq,51.8
+2022,Israel,121.1
+2022,Kuwait,374.0
+2022,Oman,326.7
+2022,Qatar,699.2
+2022,Saudi Arabia,315.7
+2022,United Arab Emirates,534.9
+2022,Other Middle East,25.9
+2022,Algeria,54.9
+2022,Egypt,35.9
+2022,Morocco,24.7
+2022,South Africa,80.5
+2022,Eastern Africa,4.9
+2022,Middle Africa,4.8
+2022,Western Africa,7.1
+2022,Other Northern Africa,67.0
+2022,Other Southern Africa,24.6
+2022,Australia,228.5
+2022,Bangladesh,10.5
+2022,China,111.8
+2022,China Hong Kong SAR,104.9
+2022,India,25.7
+2022,Indonesia,35.5
+2022,Japan,143.9
+2022,Malaysia,142.5
+2022,New Zealand,161.8
+2022,Pakistan,15.3
+2022,Philippines,18.2
+2022,Singapore,529.5
+2022,South Korea,245.3
+2022,Sri Lanka,15.7
+2022,Taiwan,200.2
+2022,Thailand,70.6
+2022,Vietnam,46.7
+2022,Other Asia Pacific,18.0
