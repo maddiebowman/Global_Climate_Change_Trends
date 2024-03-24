@@ -1,0 +1,236 @@
+Country,Source,R-Value,Direction,Strength
+Canada,Energy Source Nuclear,,,
+Canada,"Energy Source Coal, peat and oil shale",0.4789865853697731,Positive,Moderate
+Canada,Energy Source Oil products,0.7178485770285135,Positive,Strong
+Canada,Energy Source Electricity,0.37491646723381716,Positive,Moderate
+Canada,Energy Source Natural gas,0.6690378445081547,Positive,Strong
+Mexico,Energy Source Nuclear,,,
+Mexico,"Energy Source Coal, peat and oil shale",-0.004520265373920186,Negative,Weak
+Mexico,Energy Source Oil products,0.6245530891555783,Positive,Strong
+Mexico,Energy Source Electricity,0.0319773954070803,Positive,Weak
+Mexico,Energy Source Natural gas,0.33898331877,Positive,Moderate
+US,Energy Source Nuclear,,,
+US,"Energy Source Coal, peat and oil shale",0.48075198822934057,Positive,Moderate
+US,Energy Source Oil products,0.857376156141075,Positive,Strong
+US,Energy Source Electricity,0.6584265106867085,Positive,Strong
+US,Energy Source Natural gas,0.7104926768421794,Positive,Strong
+Argentina,Energy Source Nuclear,,,
+Argentina,"Energy Source Coal, peat and oil shale",0.5207444105192754,Positive,Strong
+Argentina,Energy Source Oil products,0.7623290214917426,Positive,Strong
+Argentina,Energy Source Electricity,0.6801143182858604,Positive,Strong
+Argentina,Energy Source Natural gas,0.542239908036369,Positive,Strong
+Brazil,Energy Source Nuclear,,,
+Brazil,"Energy Source Coal, peat and oil shale",0.661437517980828,Positive,Strong
+Brazil,Energy Source Oil products,0.8339329617294642,Positive,Strong
+Brazil,Energy Source Electricity,0.8550426133863479,Positive,Strong
+Brazil,Energy Source Natural gas,0.523721052338863,Positive,Strong
+Chile,Energy Source Nuclear,,,
+Chile,"Energy Source Coal, peat and oil shale",0.47192659476182325,Positive,Moderate
+Chile,Energy Source Oil products,0.5436838121550641,Positive,Strong
+Chile,Energy Source Electricity,0.6027658100942254,Positive,Strong
+Chile,Energy Source Natural gas,0.32200056698628193,Positive,Moderate
+Colombia,Energy Source Nuclear,,,
+Colombia,"Energy Source Coal, peat and oil shale",0.042479256338021756,Positive,Weak
+Colombia,Energy Source Oil products,0.6231726635777443,Positive,Strong
+Colombia,Energy Source Electricity,0.42625555019593914,Positive,Moderate
+Colombia,Energy Source Natural gas,-0.0998227436843574,Negative,Weak
+Austria,Energy Source Nuclear,,,
+Austria,"Energy Source Coal, peat and oil shale",0.38051570840502247,Positive,Moderate
+Austria,Energy Source Oil products,0.523594664886451,Positive,Strong
+Austria,Energy Source Electricity,0.665091402293071,Positive,Strong
+Austria,Energy Source Natural gas,0.7198243613473957,Positive,Strong
+Belgium,Energy Source Nuclear,,,
+Belgium,"Energy Source Coal, peat and oil shale",0.5182879572471453,Positive,Strong
+Belgium,Energy Source Oil products,0.6086711586190796,Positive,Strong
+Belgium,Energy Source Electricity,0.7319668877549188,Positive,Strong
+Belgium,Energy Source Natural gas,0.669733852341612,Positive,Strong
+Czech Republic,Energy Source Nuclear,,,
+Czech Republic,"Energy Source Coal, peat and oil shale",0.42349288199267815,Positive,Moderate
+Czech Republic,Energy Source Oil products,0.6395952320774575,Positive,Strong
+Czech Republic,Energy Source Electricity,0.7658391633502839,Positive,Strong
+Czech Republic,Energy Source Natural gas,0.42191337304955456,Positive,Moderate
+Denmark,Energy Source Nuclear,,,
+Denmark,"Energy Source Coal, peat and oil shale",0.3648437859674229,Positive,Moderate
+Denmark,Energy Source Oil products,0.6232396936528594,Positive,Strong
+Denmark,Energy Source Electricity,0.6116503184129009,Positive,Strong
+Denmark,Energy Source Natural gas,0.6572874492165394,Positive,Strong
+Estonia,Energy Source Nuclear,,,
+Estonia,"Energy Source Coal, peat and oil shale",0.4910405194515034,Positive,Moderate
+Estonia,Energy Source Oil products,0.5575233400624896,Positive,Strong
+Estonia,Energy Source Electricity,0.6480990131031591,Positive,Strong
+Estonia,Energy Source Natural gas,0.5561304355137632,Positive,Strong
+Finland,Energy Source Nuclear,,,
+Finland,"Energy Source Coal, peat and oil shale",0.5477464777381194,Positive,Strong
+Finland,Energy Source Oil products,0.5735237943770943,Positive,Strong
+Finland,Energy Source Electricity,0.7871348577487878,Positive,Strong
+Finland,Energy Source Natural gas,0.4707366394819071,Positive,Moderate
+France,Energy Source Nuclear,,,
+France,"Energy Source Coal, peat and oil shale",0.41606600555479994,Positive,Moderate
+France,Energy Source Oil products,0.7862436000539339,Positive,Strong
+France,Energy Source Electricity,0.8488604436360806,Positive,Strong
+France,Energy Source Natural gas,0.8107703953678128,Positive,Strong
+Germany,Energy Source Nuclear,,,
+Germany,"Energy Source Coal, peat and oil shale",0.42501897509081965,Positive,Moderate
+Germany,Energy Source Oil products,0.5470486403757,Positive,Strong
+Germany,Energy Source Electricity,0.741229878022273,Positive,Strong
+Germany,Energy Source Natural gas,0.7012917271600937,Positive,Strong
+Greece,Energy Source Nuclear,,,
+Greece,"Energy Source Coal, peat and oil shale",0.08287728572531666,Positive,Weak
+Greece,Energy Source Oil products,0.6370955901157236,Positive,Strong
+Greece,Energy Source Electricity,0.5950906913238001,Positive,Strong
+Greece,Energy Source Natural gas,,,
+Hungary,Energy Source Nuclear,,,
+Hungary,"Energy Source Coal, peat and oil shale",0.468789947970538,Positive,Moderate
+Hungary,Energy Source Oil products,0.6109379774181753,Positive,Strong
+Hungary,Energy Source Electricity,0.6595966833803791,Positive,Strong
+Hungary,Energy Source Natural gas,0.47959083777543776,Positive,Moderate
+Iceland,Energy Source Nuclear,,,
+Iceland,"Energy Source Coal, peat and oil shale",0.0998308164447422,Positive,Weak
+Iceland,Energy Source Oil products,0.42550988863123884,Positive,Moderate
+Iceland,Energy Source Electricity,0.8953738510798602,Positive,Strong
+Iceland,Energy Source Natural gas,,,
+Ireland,Energy Source Nuclear,,,
+Ireland,"Energy Source Coal, peat and oil shale",0.02501290061262754,Positive,Weak
+Ireland,Energy Source Oil products,0.7960356771425384,Positive,Strong
+Ireland,Energy Source Electricity,0.6935831595076598,Positive,Strong
+Ireland,Energy Source Natural gas,0.5717741062516469,Positive,Strong
+Italy,Energy Source Nuclear,,,
+Italy,"Energy Source Coal, peat and oil shale",0.4334061244620871,Positive,Moderate
+Italy,Energy Source Oil products,0.7415829564776162,Positive,Strong
+Italy,Energy Source Electricity,0.8965664997249179,Positive,Strong
+Italy,Energy Source Natural gas,0.7033250261662566,Positive,Strong
+Latvia,Energy Source Nuclear,,,
+Latvia,"Energy Source Coal, peat and oil shale",0.4213996974816877,Positive,Moderate
+Latvia,Energy Source Oil products,0.5299372313122295,Positive,Strong
+Latvia,Energy Source Electricity,0.5631694817103119,Positive,Strong
+Latvia,Energy Source Natural gas,0.5503334105702231,Positive,Strong
+Lithuania,Energy Source Nuclear,,,
+Lithuania,"Energy Source Coal, peat and oil shale",0.3936110196683957,Positive,Moderate
+Lithuania,Energy Source Oil products,0.7137183497298343,Positive,Strong
+Lithuania,Energy Source Electricity,0.6891151762961558,Positive,Strong
+Lithuania,Energy Source Natural gas,0.5937575931746366,Positive,Strong
+Luxembourg,Energy Source Nuclear,,,
+Luxembourg,"Energy Source Coal, peat and oil shale",0.32090030692860516,Positive,Moderate
+Luxembourg,Energy Source Oil products,0.8520166901017977,Positive,Strong
+Luxembourg,Energy Source Electricity,0.24672130060764097,Positive,Weak
+Luxembourg,Energy Source Natural gas,0.16582118135760085,Positive,Weak
+Netherlands,Energy Source Nuclear,,,
+Netherlands,"Energy Source Coal, peat and oil shale",-0.10459973212477748,Negative,Weak
+Netherlands,Energy Source Oil products,0.49672967113075384,Positive,Moderate
+Netherlands,Energy Source Electricity,0.47659461905026884,Positive,Moderate
+Netherlands,Energy Source Natural gas,0.7279968663458191,Positive,Strong
+Norway,Energy Source Nuclear,,,
+Norway,"Energy Source Coal, peat and oil shale",0.2962554613058912,Positive,Weak
+Norway,Energy Source Oil products,-0.43485471623270555,Negative,Moderate
+Norway,Energy Source Electricity,0.32986792069743553,Positive,Moderate
+Norway,Energy Source Natural gas,,,
+Poland,Energy Source Nuclear,,,
+Poland,"Energy Source Coal, peat and oil shale",0.499060529857516,Positive,Moderate
+Poland,Energy Source Oil products,0.5361184115400438,Positive,Strong
+Poland,Energy Source Electricity,0.7228400927178285,Positive,Strong
+Poland,Energy Source Natural gas,0.4658952115269052,Positive,Moderate
+Portugal,Energy Source Nuclear,,,
+Portugal,"Energy Source Coal, peat and oil shale",,,
+Portugal,Energy Source Oil products,0.485799937540512,Positive,Moderate
+Portugal,Energy Source Electricity,0.5661795265584235,Positive,Strong
+Portugal,Energy Source Natural gas,,,
+Slovakia,Energy Source Nuclear,,,
+Slovakia,"Energy Source Coal, peat and oil shale",0.21541506503262312,Positive,Weak
+Slovakia,Energy Source Oil products,0.4604785480715184,Positive,Moderate
+Slovakia,Energy Source Electricity,0.4708675958932681,Positive,Moderate
+Slovakia,Energy Source Natural gas,0.8286770715032845,Positive,Strong
+Slovenia,Energy Source Nuclear,,,
+Slovenia,"Energy Source Coal, peat and oil shale",0.12476385108005089,Positive,Weak
+Slovenia,Energy Source Oil products,0.6812120147145446,Positive,Strong
+Slovenia,Energy Source Electricity,0.34991196469667174,Positive,Moderate
+Slovenia,Energy Source Natural gas,0.29103518789343574,Positive,Weak
+Spain,Energy Source Nuclear,,,
+Spain,"Energy Source Coal, peat and oil shale",0.12555481081770858,Positive,Weak
+Spain,Energy Source Oil products,0.8356623294690873,Positive,Strong
+Spain,Energy Source Electricity,0.827504592099343,Positive,Strong
+Spain,Energy Source Natural gas,0.6601007064280853,Positive,Strong
+Sweden,Energy Source Nuclear,,,
+Sweden,"Energy Source Coal, peat and oil shale",0.22384180124044073,Positive,Weak
+Sweden,Energy Source Oil products,0.3372445976073109,Positive,Moderate
+Sweden,Energy Source Electricity,0.44070276631682775,Positive,Moderate
+Sweden,Energy Source Natural gas,0.2653378018011448,Positive,Weak
+Switzerland,Energy Source Nuclear,,,
+Switzerland,"Energy Source Coal, peat and oil shale",-0.28745104288371925,Negative,Weak
+Switzerland,Energy Source Oil products,0.41263215409832515,Positive,Moderate
+Switzerland,Energy Source Electricity,0.13377712336671668,Positive,Weak
+Switzerland,Energy Source Natural gas,0.11814633907636535,Positive,Weak
+Turkey,Energy Source Nuclear,,,
+Turkey,"Energy Source Coal, peat and oil shale",0.7033863370083588,Positive,Strong
+Turkey,Energy Source Oil products,0.7025215956272284,Positive,Strong
+Turkey,Energy Source Electricity,0.6681449228313321,Positive,Strong
+Turkey,Energy Source Natural gas,0.4463315497419245,Positive,Moderate
+Ukraine,Energy Source Nuclear,,,
+Ukraine,"Energy Source Coal, peat and oil shale",0.7120477941844623,Positive,Strong
+Ukraine,Energy Source Oil products,0.5354098772039682,Positive,Strong
+Ukraine,Energy Source Electricity,0.7957969525463304,Positive,Strong
+Ukraine,Energy Source Natural gas,0.48826674751356136,Positive,Moderate
+United Kingdom,Energy Source Nuclear,,,
+United Kingdom,"Energy Source Coal, peat and oil shale",-0.055015644929770645,Negative,Weak
+United Kingdom,Energy Source Oil products,0.7356188214523909,Positive,Strong
+United Kingdom,Energy Source Electricity,0.8778537689724522,Positive,Strong
+United Kingdom,Energy Source Natural gas,0.7558861213733956,Positive,Strong
+Israel,Energy Source Nuclear,,,
+Israel,"Energy Source Coal, peat and oil shale",,,
+Israel,Energy Source Oil products,0.3526296559281781,Positive,Moderate
+Israel,Energy Source Electricity,0.5413075974533741,Positive,Strong
+Israel,Energy Source Natural gas,,,
+Egypt,Energy Source Nuclear,,,
+Egypt,"Energy Source Coal, peat and oil shale",0.169052992269857,Positive,Weak
+Egypt,Energy Source Oil products,0.3761914071420464,Positive,Moderate
+Egypt,Energy Source Electricity,0.4353383979770806,Positive,Moderate
+Egypt,Energy Source Natural gas,0.01992788525763532,Positive,Weak
+Morocco,Energy Source Nuclear,,,
+Morocco,"Energy Source Coal, peat and oil shale",,,
+Morocco,Energy Source Oil products,0.7181928908273238,Positive,Strong
+Morocco,Energy Source Electricity,0.3244804607971042,Positive,Moderate
+Morocco,Energy Source Natural gas,,,
+South Africa,Energy Source Nuclear,,,
+South Africa,"Energy Source Coal, peat and oil shale",0.12417455685219475,Positive,Weak
+South Africa,Energy Source Oil products,0.27390151994594136,Positive,Weak
+South Africa,Energy Source Electricity,0.21893606262068077,Positive,Weak
+South Africa,Energy Source Natural gas,,,
+Australia,Energy Source Nuclear,,,
+Australia,"Energy Source Coal, peat and oil shale",0.07211515757432173,Positive,Weak
+Australia,Energy Source Oil products,0.48926068315290844,Positive,Moderate
+Australia,Energy Source Electricity,0.37267490507957446,Positive,Moderate
+Australia,Energy Source Natural gas,0.2718739169884826,Positive,Weak
+China,Energy Source Nuclear,,,
+China,"Energy Source Coal, peat and oil shale",0.7232048133415189,Positive,Strong
+China,Energy Source Oil products,0.44263485581157497,Positive,Moderate
+China,Energy Source Electricity,0.8357841684954668,Positive,Strong
+China,Energy Source Natural gas,0.5308052677268082,Positive,Strong
+India,Energy Source Nuclear,,,
+India,"Energy Source Coal, peat and oil shale",0.4334193841827754,Positive,Moderate
+India,Energy Source Oil products,0.6091902607806031,Positive,Strong
+India,Energy Source Electricity,0.6730318373434154,Positive,Strong
+India,Energy Source Natural gas,0.3601943063075835,Positive,Moderate
+Indonesia,Energy Source Nuclear,,,
+Indonesia,"Energy Source Coal, peat and oil shale",0.5661579483322384,Positive,Strong
+Indonesia,Energy Source Oil products,0.46015914282767806,Positive,Moderate
+Indonesia,Energy Source Electricity,0.5120486263292828,Positive,Strong
+Indonesia,Energy Source Natural gas,0.14708245597984076,Positive,Weak
+Japan,Energy Source Nuclear,,,
+Japan,"Energy Source Coal, peat and oil shale",0.6158728723465013,Positive,Strong
+Japan,Energy Source Oil products,0.5359881882495291,Positive,Strong
+Japan,Energy Source Electricity,0.726378285604784,Positive,Strong
+Japan,Energy Source Natural gas,0.6002064698878119,Positive,Strong
+New Zealand,Energy Source Nuclear,,,
+New Zealand,"Energy Source Coal, peat and oil shale",-0.0704311242994982,Negative,Weak
+New Zealand,Energy Source Oil products,0.6115417012675736,Positive,Strong
+New Zealand,Energy Source Electricity,0.45187984280818827,Positive,Moderate
+New Zealand,Energy Source Natural gas,0.5837812511142519,Positive,Strong
+Singapore,Energy Source Nuclear,,,
+Singapore,"Energy Source Coal, peat and oil shale",,,
+Singapore,Energy Source Oil products,0.09553469459179204,Positive,Weak
+Singapore,Energy Source Electricity,0.1420406763356816,Positive,Weak
+Singapore,Energy Source Natural gas,-0.22234593008459197,Negative,Weak
+Thailand,Energy Source Nuclear,,,
+Thailand,"Energy Source Coal, peat and oil shale",0.5002839771536574,Positive,Strong
+Thailand,Energy Source Oil products,0.8557769635051851,Positive,Strong
+Thailand,Energy Source Electricity,0.8456206017983539,Positive,Strong
+Thailand,Energy Source Natural gas,0.5816799566584757,Positive,Strong

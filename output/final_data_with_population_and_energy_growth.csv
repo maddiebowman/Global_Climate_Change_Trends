@@ -1,4 +1,4 @@
-Year,Country,Primary Energy Consumption,Energy Consumption per Capita,CO2 Emissions,Energy Source Nuclear,"Energy Source Coal, peat and oil shale",Energy Source Oil products,Energy Source Electricity,Energy Source Natural gas,Population Growth %,Energy Source Nuclear Growth %,"Energy Source Coal, peat and oil shale Growth %",Energy Source Oil products Growth %,Energy Source Electricity Growth %,Energy Source Natural gas Growth %
+Year,Country,Primary Energy Consumption,Energy Consumption per Capita,CO2 Emissions,Energy Source Nuclear,"Energy Source Coal, peat and oil shale",Energy Source Oil products,Energy Source Electricity,Energy Source Natural gas,Consumption Growth - Capita %,Energy Source Nuclear Growth %,"Energy Source Coal, peat and oil shale Growth %",Energy Source Oil products Growth %,Energy Source Electricity Growth %,Energy Source Natural gas Growth %
 1990,Canada,10.83,391.6,444.8,0,134,2740,1505,1813,nan,nan,nan,nan,nan,nan
 1991,Canada,10.87,388.2,428.0,0,145,2630,1519,1848,-0.87,nan,8.21,-4.01,0.93,1.93
 1992,Canada,11.17,393.9,441.9,0,143,2687,1522,1919,1.47,nan,-1.38,2.17,0.20,3.84

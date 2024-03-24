@@ -1,0 +1,48 @@
+Country,Source,R-Value,Direction,Strength
+Italy,Energy Source Electricity,0.8965664997249179,Positive,Strong
+Iceland,Energy Source Electricity,0.8953738510798602,Positive,Strong
+United Kingdom,Energy Source Electricity,0.8778537689724522,Positive,Strong
+US,Energy Source Oil products,0.857376156141075,Positive,Strong
+Thailand,Energy Source Oil products,0.8557769635051851,Positive,Strong
+Brazil,Energy Source Electricity,0.8550426133863479,Positive,Strong
+Luxembourg,Energy Source Oil products,0.8520166901017977,Positive,Strong
+France,Energy Source Electricity,0.8488604436360806,Positive,Strong
+China,Energy Source Electricity,0.8357841684954668,Positive,Strong
+Spain,Energy Source Oil products,0.8356623294690873,Positive,Strong
+Slovakia,Energy Source Natural gas,0.8286770715032845,Positive,Strong
+Ireland,Energy Source Oil products,0.7960356771425384,Positive,Strong
+Ukraine,Energy Source Electricity,0.7957969525463304,Positive,Strong
+Finland,Energy Source Electricity,0.7871348577487878,Positive,Strong
+Czech Republic,Energy Source Electricity,0.7658391633502839,Positive,Strong
+Argentina,Energy Source Oil products,0.7623290214917426,Positive,Strong
+Germany,Energy Source Electricity,0.741229878022273,Positive,Strong
+Belgium,Energy Source Electricity,0.7319668877549188,Positive,Strong
+Netherlands,Energy Source Natural gas,0.7279968663458191,Positive,Strong
+Japan,Energy Source Electricity,0.726378285604784,Positive,Strong
+Poland,Energy Source Electricity,0.7228400927178285,Positive,Strong
+Austria,Energy Source Natural gas,0.7198243613473957,Positive,Strong
+Morocco,Energy Source Oil products,0.7181928908273238,Positive,Strong
+Canada,Energy Source Oil products,0.7178485770285135,Positive,Strong
+Lithuania,Energy Source Oil products,0.7137183497298343,Positive,Strong
+Turkey,"Energy Source Coal, peat and oil shale",0.7033863370083588,Positive,Strong
+Slovenia,Energy Source Oil products,0.6812120147145446,Positive,Strong
+India,Energy Source Electricity,0.6730318373434154,Positive,Strong
+Hungary,Energy Source Electricity,0.6595966833803791,Positive,Strong
+Denmark,Energy Source Natural gas,0.6572874492165394,Positive,Strong
+Estonia,Energy Source Electricity,0.6480990131031591,Positive,Strong
+Greece,Energy Source Oil products,0.6370955901157236,Positive,Strong
+Mexico,Energy Source Oil products,0.6245530891555783,Positive,Strong
+Colombia,Energy Source Oil products,0.6231726635777443,Positive,Strong
+New Zealand,Energy Source Oil products,0.6115417012675736,Positive,Strong
+Chile,Energy Source Electricity,0.6027658100942254,Positive,Strong
+Portugal,Energy Source Electricity,0.5661795265584235,Positive,Strong
+Indonesia,"Energy Source Coal, peat and oil shale",0.5661579483322384,Positive,Strong
+Latvia,Energy Source Electricity,0.5631694817103119,Positive,Strong
+Israel,Energy Source Electricity,0.5413075974533741,Positive,Strong
+Australia,Energy Source Oil products,0.48926068315290844,Positive,Moderate
+Sweden,Energy Source Electricity,0.44070276631682775,Positive,Moderate
+Egypt,Energy Source Electricity,0.4353383979770806,Positive,Moderate
+Switzerland,Energy Source Oil products,0.41263215409832515,Positive,Moderate
+Norway,Energy Source Electricity,0.32986792069743553,Positive,Moderate
+South Africa,Energy Source Oil products,0.27390151994594136,Positive,Weak
+Singapore,Energy Source Electricity,0.1420406763356816,Positive,Weak
